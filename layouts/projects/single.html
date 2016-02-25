@@ -1,0 +1,36 @@
+{{partial "header.html" . }}
+
+<div class="col-md-7">
+        <article id="content">
+           {{ .Content }}
+        </article>
+</div>
+<div class="col-md-5">
+{{$data := .Params}}
+<div class="pageData">
+<img class="pageLogo" src="{{$data.logo}}"/>
+<table class="datatable">
+<tr><th>Name: </th><td>{{ .Title }}</td></tr>
+{{with $data.website}}<tr><th>Website: </th><td><a href="{{ . }}">{{ . }}</a></td></tr>{{end}}
+{{with $data.funding}}<tr><th>Funding: </th><td>{{ . }}</td></tr>{{end}}
+{{with $data.budget_overall}}<tr><th>Overall Budget: </th><td>{{ . }}</td></tr>{{end}}
+{{with $data.budget_own}}<tr><th>Own Budget: </th><td>{{ . }}</td></tr>{{end}}
+{{with $data.duration}}<tr><th>Duration: </th><td>{{ . }}</td></tr>{{end}}
+{{with $data.partners}}<tr><th>Partners: </th><td>
+    {{range $i, $p:=. }}
+    {{if not (eq $i 0)}}<br/>{{end}}  
+       <a href="{{$p.url}}">{{$p.name}}</a>
+    {{ end }}
+</td></tr>{{end}}
+{{with $data.staff}}<tr><th>Staff: </th><td>
+    {{range $i, $p:=. }}
+    {{if not (eq $i 0)}}<br/>{{end}}  
+       <a href="{{$p.url}}">{{$p.name}}</a>
+    {{ end }}
+</td></tr>{{end}}
+</table>
+</div>
+</div>
+
+
+{{partial "footer.html" . }}

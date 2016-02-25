@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on WISS | Stuttgart Media University</title>
+    <link>http://wiss.iuk.hdm-stuttgart.de/projects/</link>
+    <description>Recent content in Projects on WISS | Stuttgart Media University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Feb 2016 23:19:14 +0100</lastBuildDate>
+    <atom:link href="http://wiss.iuk.hdm-stuttgart.de/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FID Judaica</title>
+      <link>http://wiss.iuk.hdm-stuttgart.de/projects/fid-judaica/</link>
+      <pubDate>Sat, 13 Feb 2016 23:19:14 +0100</pubDate>
+      
+      <guid>http://wiss.iuk.hdm-stuttgart.de/projects/fid-judaica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InFoLiS II - Integration of research data and literature in the Social Sciences</title>
+      <link>http://wiss.iuk.hdm-stuttgart.de/projects/infolis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wiss.iuk.hdm-stuttgart.de/projects/infolis/</guid>
+      <description>
+
+&lt;h1 id=&#34;infolis:8c9803b502b3caacdf307463c90633b6&#34;&gt;InFoLiS&lt;/h1&gt;
+
+&lt;p&gt;Some text here&amp;hellip;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

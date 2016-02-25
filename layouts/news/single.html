@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<div class="col-md-7">
+{{ .Content  }}
+{{$page:=.}}
+{{with .Params.author}} {{range where $page.Site.Pages "Params.id" .}}
+{{$data := .Params}}
+<p class="smallData">
+  <b>Author:</b> <a href="/people/{{$data.id}}">{{ .Title }}</a><br/>
+  <b>Date:</b> {{dateFormat "Mon, 02 Jan 2006" $page.Date}} 
+</p>
+{{end}}{{end}}
+</div>
+<div class="col-md-5">
+{{with .Params.picture}}
+   <img src="{{.}}" style="max-width:100%"/>
+{{end}}
+</div>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,12 @@
+{{$email := replace (index . "email") "@" "ZZ%%ZZ" }}
+{{$l := len $email}}
+{{$split1:=div $l 5}}
+{{$split2:= add $split1 $split1}}
+{{$split3:= add $split2 $split1}}
+{{$split4:= add $split3 $split1}}
+{{$s1:=substr $email 0 $split1}}
+{{$s2:=substr $email $split1 $split1}}
+{{$s3:=substr $email $split2 $split1}}
+{{$s4:=substr $email $split3 $split1}}
+{{$s5:=substr $email $split4}}
+<span class="emad" data-s6="{{$s5}}" data-s3="{{if isset . "text"}}{{index . "text"}}{{else}}click here{{end}}" data-s2="{{$s2}}" data-s5="{{$s4}}" data-s4="{{$s3}}" data-s1="{{$s1}}">JAVASCRIPT PROTECTED</span>

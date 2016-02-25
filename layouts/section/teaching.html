@@ -1,0 +1,25 @@
+{{partial "header.html" .}}
+<h1>Lehre</h1>
+<p><i>As teaching is mostly in German, particularly for the Bachelor courses, the following information is only available in German. If you are a foreign student and would like to have further information in English or if you are interested in courses held in English, please {{partial "email.html" (dict "email" "eckert@hdm-stuttgart.de" "text" "get in touch")}}.</i></p>
+
+<h2>Bachelor, Sommersemester 2016</h2>
+
+<table class="lectureTable">
+<tr>
+<th>Titel der Veranstaltung</th>
+<th>Dozent</th>
+<th>Typ</th>
+</tr>
+{{range .Data.Pages}}
+<tr>
+<td><a href="{{.Permalink}}">{{.Title}}</a></td>
+<td> {{range $i, $v:=.Params.lecturers }}
+    {{if not (eq $i 0)}} / {{end}}  
+       <a href="{{$v.url}}">{{$v.name}}</a>
+    {{ end }}
+</td>
+<td>{{.Params.lecturetype}}</td>
+</tr>
+{{end}}
+</table>
+{{partial "footer.html" .}}

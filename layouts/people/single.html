@@ -1,0 +1,68 @@
+{{partial "header.html" . }}
+
+<div class="col-md-8">
+        <article id="content">
+           {{ .Content }}
+        </article>
+
+</div>
+<div class="col-md-4">
+{{$data := .Params}}
+<div class="pageData">
+<img class="pageLogo" src="{{$data.photo}}"/>
+<table class="datatable">
+<tr><th>Name: </th><td>{{ $data.name }}</td></tr>
+<tr><th>Email: </th><td>{{partial "email" (dict "email" $data.email) }}</td></tr>
+{{with $data.phone}}
+<tr><th>Phone: </th><td>{{.}}</td></tr>
+{{end}}
+{{with $data.projects}}
+<tr><th>Project: </th><td>
+    {{range $i, $v:=. }}
+    {{if not (eq $i 0)}}<br/>{{end}}  
+       <a href="{{$v.url}}">{{$v.name}}</a>
+    {{ end }}
+</td></tr>
+{{end}}
+{{with $data.affiliation}}
+<tr><th>Affiliation: </th><td>
+    {{range $i, $v:=. }}
+    {{if not (eq $i 0)}}<br/>{{end}}  
+       <a href="{{$v.url}}">{{$v.name}}</a>
+    {{ end }}
+</td></tr>
+{{end}}
+{{with $data.research}}
+<tr><th>Research topic: </th><td>{{.}}</td></tr>
+{{end}}
+{{with $data.supervisor}}
+<tr><th>Supervisor: </th><td>
+    <ul>
+    {{range $i, $v:=. }}
+       <li><a href="{{$v.url}}">{{$v.name}} ({{$v.affiliation}})</a></li>
+    {{ end }}
+       <li><a href="/people/kai-eckert">Prof. Dr. Kai Eckert</a></li>
+</td></tr>
+{{end}}
+{{with $data.identifiers}}
+<tr><th>Identifier: </th><td>
+    <ul>
+    {{range $i, $v:=. }}
+       <li>{{$v.title}}: <a href="{{$v.url}}">{{$v.id}}</a></li>
+    {{ end }}
+</td></tr>
+{{end}}
+{{with $data.website}}
+<tr><th>Further Websites: </th><td>
+    <ul>
+    {{range $i, $v:=. }}
+       <li><a href="{{$v.url}}">{{$v.name}}</a></li>
+    {{ end }}
+</td></tr>
+{{end}}
+</table>
+</div>
+</div>
+
+
+{{partial "footer.html" . }}

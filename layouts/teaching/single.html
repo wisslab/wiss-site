@@ -1,0 +1,36 @@
+{{partial "header.html" . }}
+
+<div class="col-md-7">
+  <h1>{{.Title}}</h1>
+        <article id="content">
+           {{ .Content }}
+        </article>
+</div>
+<div class="col-md-5">
+{{$data := .Params}}
+<div class="pageData">
+<table class="datatable">
+<tr><th>Name: </th><td>{{ .Title }}</td></tr>
+<tr><th>EDV-Nr.: </th><td>{{ $data.number }}</td></tr>
+<tr><th>SWS/ECTS: </th><td>{{ $data.sws }}/{{ $data.ects }}</td></tr>
+<tr><th>Sprache: </th><td>{{ $data.language }}</td></tr>
+<tr><th>Studiengänge: </th><td>{{ $data.courses }}</td></tr>
+<tr><th>Dozent(en): </th><td>
+    {{range $i, $v:=$data.lecturers }}
+    {{if not (eq $i 0)}}<br/>{{end}}  
+       <a href="{{$v.url}}">{{$v.name}}</a>
+    {{ end }}
+</td></tr>
+<tr><th>Typ: </th><td>{{$data.lecturetype}}</td></tr>
+<tr><th>Moodle: </th><td>
+    {{range $i, $v:=$data.semesters }}
+    {{if not (eq $i 0)}}<br/>{{end}}  
+       {{with $v.moodle}}<a href="https://e-learning.hdm-stuttgart.de/moodle/course/view.php?id={{.}}">{{end}}{{$v.semester}}{{with $v.moodle}}</a>{{end}}
+    {{ end }}
+</td></tr>
+</table>
+</div>
+</div>
+
+
+{{partial "footer.html" . }}

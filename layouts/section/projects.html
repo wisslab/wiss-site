@@ -1,0 +1,30 @@
+{{partial "header.html" . }}
+
+{{ range .Data.Pages }}
+<div class="sectionitem">
+{{$data := .Params}}
+{{$.Scratch.Set "rows" 1}}
+{{with $data.funding}}{{$.Scratch.Add "rows" 1}}{{end}}
+{{with $data.budget_overall}}{{$.Scratch.Add "rows" 1}}{{end}}
+{{with $data.budget_own}}{{$.Scratch.Add "rows" 1}}{{end}}
+{{with $data.duration}}{{$.Scratch.Add "rows" 1}}{{end}}
+{{with $data.partners}}{{$.Scratch.Add "rows" 1}}{{end}}
+<h2><a href="{{.Permalink}}">{{ .Title }}</a></h2>
+<div class="pageData">
+<table class="datatable pageData">
+<tr><td colspan="2">{{$data.abstract}}</td><td rowspan="{{$.Scratch.Get "rows"}}"><img class="pageLogo" src="{{$data.logo}}"/></td></tr>
+{{with $data.funding}}<tr><th>Funding: </th><td>{{ . }}</td></tr>{{end}}
+{{with $data.budget_overall}}<tr><th>Overall Budget: </th><td>{{ . }}</td></tr>{{end}}
+{{with $data.budget_own}}<tr><th>Own Budget: </th><td>{{ . }}</td></tr>{{end}}
+{{with $data.duration}}<tr><th>Duration: </th><td>{{ . }}</td></tr>{{end}}
+{{with $data.partners}}<tr><th>Partners: </th><td>
+    {{range $i, $p:=. }}
+    {{if not (eq $i 0)}}<br/>{{end}}  
+       <a href="{{$p.url}}">{{$p.name}}</a>
+    {{ end }}
+</td></tr>{{end}}
+</table>
+</div>
+</div>
+{{ end }}
+{{partial "footer.html" . }}

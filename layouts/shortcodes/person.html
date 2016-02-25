@@ -1,0 +1,24 @@
+{{if eq (.Get 0) "question" }}
+<div class="smallData">
+<table class="datatable">
+<tr><th>Name: </th><td><a href="/career">You?</a></td></tr>
+<tr><th></th><td><i>Join us!</i></td></tr>
+</table>
+<a href="/career"><img class="smallLogo" src="/img/questionface.png"/></a>
+</div>
+{{else}}
+{{range where .Page.Site.Pages "Params.id" (.Get 0)}}
+{{$data := .Params}}
+<div class="smallData">
+<table class="datatable">
+<tr><th>Name: </th><td><a href="/people/{{$data.id}}">{{ .Title }}</a></td></tr>
+{{with $data.function}}<tr><th></th><td>{{ .}}</td></tr>{{end}}
+<tr><th>Email: </th><td>{{partial "email" (dict "email" $data.email) }}</td></tr>
+{{with $data.phone}}
+<tr><th>Phone: </th><td>{{.}}</td></tr>
+{{end}}
+</table>
+<a href="/people/{{$data.id}}"><img class="smallLogo" src="{{$data.photo}}"/></a>
+</div>
+{{end}}
+{{end}}

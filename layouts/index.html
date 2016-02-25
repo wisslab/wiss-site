@@ -1,0 +1,46 @@
+{{ partial "header.html" . }}
+
+<!-- Heading Row -->
+<div class="row">
+  {{range first 1 (where .Site.Pages "Params.featured" "true")}}
+  <div class="col-md-7">
+    <img class="img-responsive img-rounded" src="{{.Params.picture}}" alt="">
+  </div>
+  <!-- /.col-md-8 -->
+  <div class="col-md-5">
+    <h2>{{.Title}}</h2>
+    {{.Summary}}
+    {{if .Truncated }}<a class="btn btn-default" href="{{.Permalink}}">More Info</a>{{end}}
+  </div>
+  <!-- /.col-md-4 -->
+  {{end}}
+</div>
+<!-- /.row -->
+
+<hr>
+
+<!-- Call to Action Well -->
+<div class="row">
+  <div class="col-lg-12">
+    <div class="well text-center">
+      <b>Job opening: <a href="/career">Doctoral student position in computer or information science</a>!</b>
+    </div>
+  </div>
+  <!-- /.col-lg-12 -->
+</div>
+<!-- /.row -->
+
+<!-- Content Row -->
+<div class="row">
+{{range first 3 (where .Site.Pages "Params.featured" "false")}}
+  <div class="col-md-4">
+ <h3>{{.Title}}</h3>
+ <p><i>{{dateFormat "Mon, January _2, 2006" .Date}}</i></p>
+    {{.Summary}}
+    {{if .Truncated }}<a class="btn btn-default" href="{{.Permalink}}">More Info</a>{{end}}
+  </div>
+  <!-- /.col-md-4 -->
+{{end}}
+</div>
+<!-- /.row -->
+{{ partial "footer.html" . }}
