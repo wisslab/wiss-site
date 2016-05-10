@@ -169,8 +169,8 @@ ul {
 }
 
 img.pageLogo {
-    max-width:100px;
-    max-height:150px;
+    max-width:200px;
+    max-height:250px;
     margin-bottom:20px;
     box-shadow: 1px 1px 2px 1px rgba(143,143,143,1);
 }

@@ -48,4 +48,12 @@ keine
 *Bei Abweichungen gegenüber dem Stundenplansystem bitte Bescheid geben. Im Zweifelsfall zählt das Stundenplansystem!*
 
 ## Lernmaterial / Skript
+
+Das Skript ist online (nur aus dem Netz der HdM, bzw. per VPN erreichbar):
+
+- [Folien](https://www.hdm-stuttgart.de/intranet/~eckert/teaching/ss16/search/search.html)
+- [PDF-Skript (inhaltsidentisch)](https://www.hdm-stuttgart.de/intranet/~eckert/teaching/ss16/search/search.pdf)
+
+*Das Skript wird weiter überarbeitet und kann sich daher ändern. Überlegen Sie gut, ob Sie einen bestimmten Stand tatsächlich drucken müssen.*
+
 - Dirk Lewandowski: Suchmaschinen verstehen, Springer-Vieweg 2015

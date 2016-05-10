@@ -2,7 +2,7 @@
   id: ""
   name: ""
   email: ""
-  photo: ""
+  photo: "/img/avatar.gif"
   website: ""
   research: ""
   supervisor:

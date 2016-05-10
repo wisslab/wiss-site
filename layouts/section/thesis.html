@@ -1,0 +1,25 @@
+{{partial "header.html" .}}
+<h1>Theses / Abschlussarbeiten</h1>
+<p><i>Open thesis topics for Bachelor students are described in German. If you are a foreign student and would like to have further information in English or if you are interested in writing a thesis, please {{partial "email.html" (dict "email" "eckert@hdm-stuttgart.de" "text" "get in touch")}}. Irrespective of topic and degree, you can always write your thesis in English.</i></p>
+
+<h2>Bachelor</h2>
+
+<table class="lectureTable">
+<tr>
+<th>Titel</th>
+<th>Betreuer</th>
+<th>Kurzbeschreibung</th>
+</tr>
+{{range .Data.Pages}}
+<tr>
+<td><a href="{{.Permalink}}">{{.Title}}</a></td>
+<td> {{range $i, $v:=.Params.lecturers }}
+    {{if not (eq $i 0)}} / {{end}}  
+       <a href="{{$v.url}}">{{$v.name}}</a>
+    {{ end }}
+</td>
+<td>{{.Params.abstract}}</td>
+</tr>
+{{end}}
+</table>
+{{partial "footer.html" .}}

@@ -19,7 +19,9 @@
   budget_own: "160,000 Euro"
 ---
 
-InFoLiS
+InFoLiS II - Integration of research data and literature in the Social Sciences
 =======
 
-Some text here.... 
+The InFoLiS follow-up project focuses on the identification of references to research data in publications in different languages and domains. To generate and provide the references, a sustainable LOD-infrastructure will be built.
+
+For more and up-to-date information, please check our dedicates [InFoLiS Website](http://infolis.github.io).

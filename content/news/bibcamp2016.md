@@ -2,7 +2,7 @@
 author: "kai-eckert"
 category: bibcamp
 date: 2016-02-19
-featured: "true"
+featured: "false"
 picture: "/img/bibcamp-team.jpg"
 title: BibCamp 2016
 ---

@@ -1,10 +1,16 @@
 {{if eq (.Get 0) "question" }}
 <div class="smallData">
 <table class="datatable">
-<tr><th>Name: </th><td><a href="/career">You?</a></td></tr>
+<tr><th>Name: </th><td>
+{{with (.Get 1)}}<a href="{{ . }}">{{end}}
+You?
+{{with (.Get 1)}}<a href="{{ . }}">{{end}}
+</td></tr>
 <tr><th></th><td><i>Join us!</i></td></tr>
 </table>
-<a href="/career"><img class="smallLogo" src="/img/questionface.png"/></a>
+{{with (.Get 1)}}<a href="{{ . }}">{{end}}
+<img class="smallLogo" src="/img/questionface.png"/>
+{{with (.Get 1)}}</a>{{end}}
 </div>
 {{else}}
 {{range where .Page.Site.Pages "Params.id" (.Get 0)}}

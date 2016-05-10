@@ -1,0 +1,53 @@
+{{partial "header.html" .}}
+<div class="col-md-9">
+<h1>Career opportunities</h1>
+<p>
+Here you find open positions for student assistants (Wissenschaftliche Hilfskraft, Hiwi) and full positions as researcher within our group or at partner institutions or companies. 
+</p>
+<p>
+Please note that student assistant (Hiwi) positions are <b>only</b> available for our students at Stuttgart Media University.
+</p>
+<table class="lectureTable">
+<tr>
+<th>Title</th>
+<th>Description</th>
+<th>Workload</th>
+<th>Pay Scale</th>
+<th>Deadline</th>
+</tr>
+{{range first 100 (where .Site.Pages "Type" "jobs")}}
+<tr>
+<td><a href="{{.Permalink}}">{{.Title}}</a></td>
+<td>{{.Params.summary }}</td>
+<td>{{.Params.workload }}</td>
+<td>{{.Params.payscale }}</td>
+<td>{{.Params.deadline }}</td>
+</tr>
+{{end}}
+</table>
+
+
+</div>
+<div class="col-md-3">
+<b>Cooperating Universities:</b>
+<div style="text-align:center">
+<a href="http://www.uni-mannheim.de"><img src="/img/uni_ma_logo.gif"/></a><br/>
+<a href="http://www.kit.edu"><img src="/img/kitlogo.jpg" /></a><br/>
+<a href="http://www.hu-berlin.de"><img src="/img/hulogo.png" style="padding-top: 20px;"/></a><br/>
+<a href="http://www.uws.ac.uk"><img src="/img/logo-uws.png" style="padding-top: 25px; width:150px;x"/></a>
+</div>
+
+Read more on <a href="get-a-doctorate">getting a doctorate</a>.
+
+<b>Industry partners:</b>
+<div style="text-align:center">
+<a href="http://www.bosch.com"><img src="/img/bosch_logo_english.png"/></a><br/>
+<a href="http://www.springernature.com"><img src="/img/logo-springernature.png" style="padding-top:20px;padding-bottom:20px;"/></a><br/>
+<a href="http://www.p3-group.com"><img src="/img/p3_group.png" style="padding-top: 20px;"/></a>
+</div>
+
+Read more on <a href="industry">industry partnerships</a>.
+
+</div>
+
+{{partial "footer.html" .}}

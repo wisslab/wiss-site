@@ -6,8 +6,55 @@
     <description>Recent content in Careers on WISS | Stuttgart Media University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Feb 2016 00:18:12 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 10 Mar 2016 10:44:48 +0100</lastBuildDate>
     <atom:link href="http://wiss.iuk.hdm-stuttgart.de/career/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hiwi Software und Content Management</title>
+      <link>http://wiss.iuk.hdm-stuttgart.de/career/hiwi-2016-1/</link>
+      <pubDate>Thu, 10 Mar 2016 10:44:48 +0100</pubDate>
+      
+      <guid>http://wiss.iuk.hdm-stuttgart.de/career/hiwi-2016-1/</guid>
+      <description>&lt;p&gt;Tätigkeiten umfassen u.a.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Unterstützung bei den laufenden Forschungsprojekten&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Testen von Open-Source Software zur Verarbeitung von Metadaten&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dokumentation von frei lizenzierten Daten im bibliografischen Bereich&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Qualitätssicherung bei automatisch erstellten Metadaten und Analysen&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;hellip; und was sonst gerade anliegt.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Webmaster, insbesondere&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Aufbau und Pflege von Webseiten zur Dokumentation der
+Forschungsprojekte&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Semantische Annotation der Webseiten&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Erste Kenntnisse zur Linux-Konsole und Spaß am Basteln mit Open Source
+Programmen und großen Datenmengen sollten vorhanden sein. Alle
+weiteren Kenntnisse und Fertigkeiten können im Rahmen der Tätigkeit
+erlernt werden.&lt;/p&gt;
+
+&lt;p&gt;Ein Arbeitsplatz an der HdM wird zur Verfügung gestellt - es kann (und
+soll teilweise) auch von zuhause gearbeitet werden. Eigenes Notebook
+wäre erforderlich (damit die für die Arbeit notwendige Software nicht
+an mehreren Rechnern eingerichtet und gepflegt werden muss).&lt;/p&gt;
+
+&lt;p&gt;Bewerbungen bitte an &lt;a href=&#34;http://wiss.iuk.hdm-stuttgart.de/people/magnus-pfeffer&#34;&gt;Magnus Pfeffer&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>career</title>
@@ -85,6 +132,37 @@
 
 &lt;/div&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hiwi JudaicaLink</title>
+      <link>http://wiss.iuk.hdm-stuttgart.de/career/hiwi-2016-2/</link>
+      <pubDate>Thu, 10 Mar 2016 10:44:48 +0100</pubDate>
+      
+      <guid>http://wiss.iuk.hdm-stuttgart.de/career/hiwi-2016-2/</guid>
+      <description>&lt;p&gt;Tätigkeiten umfassen u.a.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Weiterentwicklung des Projekts &lt;a href=&#34;http://www.judaicalink.org&#34;&gt;JudaicaLink&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Integration neuer Daten&lt;/li&gt;
+&lt;li&gt;Verbesserung der Crawler für existierende Daten&lt;/li&gt;
+&lt;li&gt;Verlinkung und Anreicherung der Daten&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Die Stelle ist an das Projekt &lt;a href=&#34;http://wiss.iuk.hdm-stuttgart.de/projects/fid-judaica&#34;&gt;FID Judaica&lt;/a&gt; angegliedert, das derzeit in der Startphase ist, so dass weitere Entwicklungsaufgaben hinzukommen können.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Anforderungen:&lt;/strong&gt;
+Selbständige Arbeitsweise, hohe Motivation und Programmierkenntnisse, vorzugsweise Java oder JavaScript, sowie Kenntnisse in HTML. Kenntnisse in Linked Data, Metadaten oder XML von Vorteil.&lt;/p&gt;
+
+&lt;p&gt;Ein Arbeitsplatz an der HdM wird zur Verfügung gestellt - es kann (und
+soll teilweise) auch von zuhause gearbeitet werden. Ein eigenes Notebook
+ist erforderlich.&lt;/p&gt;
+
+&lt;p&gt;Bewerbungen bitte an &lt;a href=&#34;http://wiss.iuk.hdm-stuttgart.de/people/kai-eckert&#34;&gt;Kai Eckert&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

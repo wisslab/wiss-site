@@ -13,3 +13,9 @@ title: Springer LOD Pilot
 website: "http://lod.springer.com"
 ---
 
+Springer LOD Pilot
+==================
+
+The purpose of this project is to use Linked Open Data (LOD) to enrich Springer metadata and link them to other available data in the LOD cloud. The current implementation is making the data about conference proceedings published at Springer available as LOD.
+
+Here is the link to the [LOD Pilot](http://lod.springer.com).

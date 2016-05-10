@@ -1,0 +1,26 @@
+{{partial "header.html" . }}
+
+<div class="col-md-7">
+  <h1>{{.Title}}</h1>
+        <article id="content">
+           {{ .Content }}
+        </article>
+</div>
+<div class="col-md-5">
+{{$data := .Params}}
+<div class="pageData">
+<table class="datatable">
+<tr><th>Name: </th><td>{{ .Title }}</td></tr>
+<tr><th>Betreuer: </th><td>
+    {{range $i, $v:=$data.lecturers }}
+    {{if not (eq $i 0)}}<br/>{{end}}  
+       <a href="{{$v.url}}">{{$v.name}}</a>
+    {{ end }}
+</td></tr>
+<tr><th>Abschluss: </th><td>{{$data.degree}}</td></tr>
+</table>
+</div>
+</div>
+
+
+{{partial "footer.html" . }}

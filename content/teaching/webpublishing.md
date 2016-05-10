@@ -34,3 +34,8 @@ keine
 
 ## Lernmaterial / Skript
 Parallel zur Veranstaltung wird ein Skript mit weiterführenden Informationen erstellt.
+
+Das Skript ist online (nur aus dem Netz der HdM, bzw. per VPN erreichbar):
+
+- [Folien](https://www.hdm-stuttgart.de/intranet/~eckert/teaching/ss16/webpublishing/webpublishing.html)
+- [PDF-Skript (inhaltsidentisch)](https://www.hdm-stuttgart.de/intranet/~eckert/teaching/ss16/webpublishing/webpublishing.pdf)

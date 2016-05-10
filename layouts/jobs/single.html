@@ -1,0 +1,31 @@
+{{ partial "header.html" . }}
+
+<div class="col-md-8">
+<h1>{{.Title}}</h1>
+<p>
+<table class="lectureTable">
+<tr><th>Description:</th><td>{{.Params.summary }}</td></tr>
+<tr><th>Workload:</th><td>{{.Params.workload }}</td></tr>
+<tr><th>Pay Scale:</th><td>{{.Params.payscale }}</td></tr>
+<tr><th>Deadline:</th><td>{{.Params.deadline }}</td></tr>
+</table>
+</p>
+<article>
+{{ .Content  }}
+</article>
+{{$page:=.}}
+{{with .Params.author}} {{range where $page.Site.Pages "Params.id" .}}
+{{$data := .Params}}
+<p class="smallData">
+  <b>Author:</b> <a href="/people/{{$data.id}}">{{ .Title }}</a><br/>
+  <b>Date:</b> {{dateFormat "Mon, 02 Jan 2006" $page.Date}} 
+</p>
+{{end}}{{end}}
+</div>
+<div class="col-md-4">
+{{with .Params.picture}}
+   <img src="{{.}}" style="max-width:100%"/>
+{{end}}
+</div>
+
+{{ partial "footer.html" . }}

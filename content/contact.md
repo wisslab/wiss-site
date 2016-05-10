@@ -21,7 +21,7 @@ D-70569 Stuttgart
 
 **S-Bahn:**
 
-Coming from the Stuttgart main statin (Hauptbahnhof): Take the S-Bahn S1 (Herrenberg), S2 or S3 (both Flughafen) and get off at "Universität".
+Coming from the Stuttgart main station (Hauptbahnhof): Take the S-Bahn S1 (Herrenberg), S2 or S3 (both Flughafen) and get off at "Universität".
 
 Coming from the Airport (Flughafen): Take the S-Bahn S2 (Schorndorf) or S3 (Backnang) and get off at "Universität".
 
