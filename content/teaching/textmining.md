@@ -1,7 +1,7 @@
 ---
 courses: "Alle Studiengänge"
 date: 2016-02-19T22:54:04+01:00
-ects: "4"
+ects: "6"
 exam: "LA"
 language: Deutsch
 lecturers:
