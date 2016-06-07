@@ -1,6 +1,6 @@
 # WISS Website
 
-This is the repository that drives the website of the WISS research group at Stuttgart Media University.
+This is the repository that drives the website of the [WISS research group](http://www.wisslab.org) at Stuttgart Media University.
 
 ## Updates
 
@@ -14,4 +14,4 @@ Do your changes with a simple text editor. The content is mostly written in Mark
 
 Watch the console for errors if your changes do not show up as expected.
 
-When you are done, commit your changes to your forkes repository and send the pull request.
+When you are done, commit your changes to your forked repository and send the pull request.
