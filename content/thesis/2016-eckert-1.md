@@ -5,7 +5,7 @@ degree: Bachelor
 lecturers:
 - name: Prof. Dr. Kai Eckert
   url: /people/kai-eckert
-title: Vsualisierung der Änderungsdynamik an SW Funktionen im Entwicklungsverlauf
+title: Visualisierung der Änderungsdynamik an SW Funktionen im Entwicklungsverlauf
 draft: no
 ---
 
