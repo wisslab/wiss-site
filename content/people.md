@@ -24,6 +24,7 @@
 
    |   
 ---|---
-{{< person jens-steilen >}}  | {{< person question   "/career/" >}}
+{{< person jens-steilen >}}  | {{< person anh-duc-nguyen >}}
+{{< person question   "/career/" >}} |
 
 
