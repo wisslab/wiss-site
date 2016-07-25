@@ -10,8 +10,8 @@ partners:
 - name: "University Library Johann Christian Senckenberg, Frankfurt"
   url: "http://www.ub.uni-frankfurt.de"
 staff:
-- name: "t.b.d."
-  url: "/career"
+- name: "Dr. Maral Dadvar"
+  url: "/people/maral-dadvar"
 title: "FID Judaica"
 website: "https://www.ub.uni-frankfurt.de/projekte/juedische_studien.html"
 ---

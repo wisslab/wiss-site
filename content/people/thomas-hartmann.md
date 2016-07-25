@@ -6,12 +6,12 @@ affiliation:
 date: 2016-02-17T14:10:47+01:00
 email: "thomas.hartmann@gesis.org"
 phone: "+49 (0621) 1246-271"
-group: "affiliated"
+group: "alumni"
 identifiers:
 - id: "1-5324-4306"
   title: "ORCID"
   url: "http://orcid.org/0000-0001-5324-4306"
-name: "Thomas Hartmann"
+name: "Dr.-Ing. Thomas Hartmann"
 photo: "/img/thomas-hartmann.jpg"
 publications: "publications-thomas-hartmann"
 research: "RDF Validation"
@@ -19,7 +19,7 @@ supervisor:
 - affiliation: "KIT Karlsruhe"
   name: "Prof. Dr. York Sure-Vetter"
   url: "http://www.aifb.kit.edu/web/York_Sure-Vetter"
-title: Thomas Hartmann, M.Sc. (TUM)
+title: Dr.-Ing. Thomas Hartmann
 website:
 - name: "Thomas @ GESIS"
   url: "http://www.gesis.org/das-institut/mitarbeiterverzeichnis/?alpha=B&name=thomas%2Chartmann"
@@ -27,10 +27,11 @@ website:
   url: "http://www.aifb.kit.edu/web/Thomas_Hartmann"
 ---
 
-# Thomas Hartmann, M.Sc. (TUM)
+# Dr.-Ing. Thomas Hartmann, M.Sc. (TUM)
 
-Thomas Hartmann studied information systems, holds a degree in Computer
-Science (M.Sc.), and is currently a PhD student in Computer Science. 
+Thomas Hartmann studied information systems and holds degrees in Computer
+Science from TU Munich (M.Sc.)  and KIT Karlsruhe (PhD).
+
 His research topic is all about RDF validation. He investigates how to validate any
 RDF constraints (formulated by arbitrary constraint languages) and how to 
 express them generically. He presented his work at international conferences and

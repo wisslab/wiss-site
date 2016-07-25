@@ -2,7 +2,7 @@
 
 <!-- Heading Row -->
 <div class="row">
-  {{range first 1 (where .Site.Pages "Params.featured" "true")}}
+  {{range first 1 (where .Site.Pages "Params.big" "true")}}
   <div class="col-md-7">
     <img class="img-responsive img-rounded" src="{{.Params.picture}}" alt="">
   </div>
@@ -31,6 +31,21 @@
 <!-- /.row -->
 
 <!-- Content Row -->
+<div class="row">
+{{range first 2 (where .Site.Pages "Params.featured" "true")}}
+  <div class="col-md-4">
+ <h3>{{.Title}}</h3>
+ <p><i>{{dateFormat "Mon, January _2, 2006" .Date}}</i></p>
+    {{.Summary}}
+    {{if .Truncated }}<a class="btn btn-default" href="{{.Permalink}}">More Info</a>{{end}}
+  </div>
+  <div class="col-md-2 img-rounded">
+    <img class="img-responsive" src="{{.Params.picture}}" alt="">
+  </div>
+  <!-- /.col-md-4 -->
+{{end}}
+</div>
+
 <div class="row">
 {{range first 3 (where .Site.Pages "Params.featured" "false")}}
   <div class="col-md-4">

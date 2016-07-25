@@ -1,6 +1,7 @@
 {{ partial "header.html" . }}
 
 <div class="col-md-7">
+<h1>{{.Title}}</h1>
 {{ .Content  }}
 {{$page:=.}}
 {{with .Params.author}} {{range where $page.Site.Pages "Params.id" .}}

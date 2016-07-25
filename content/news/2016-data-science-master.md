@@ -2,7 +2,8 @@
 author: kai-eckert
 category: general
 date: 2016-06-01T20:05:05+02:00
-featured: "true"
+featured: "false"
+big: "true"
 picture: "/img/datascience1-narrow.jpg"
 title: "New Master Program: Data Science and Business Analytics"
 ---
