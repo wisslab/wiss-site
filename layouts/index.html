@@ -35,8 +35,7 @@
 {{range first 2 (where .Site.Pages "Params.featured" "true")}}
   <div class="col-md-4">
  <h3>{{.Title}}</h3>
- <p><i>{{dateFormat "Mon, January _2, 2006" .Date}}</i></p>
-    {{.Summary}}
+     {{.Summary}}
     {{if .Truncated }}<a class="btn btn-default" href="{{.Permalink}}">More Info</a>{{end}}
   </div>
   <div class="col-md-2 img-rounded">

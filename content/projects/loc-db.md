@@ -3,7 +3,7 @@ abstract: "The LOC-DB project will develop ready-to-use tools and processes base
 budget_overall: "650,000 Euro"
 budget_own: "172,360 Euro"
 date: 2016-07-11T23:19:14+01:00
-duration: "2016 - 2019"
+duration: "2016 - 2018"
 funding: "Deutsche Forschungsgemeinschaft (DFG)"
 logo: "/img/locdb.png"
 partners:
