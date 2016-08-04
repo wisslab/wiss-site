@@ -19,6 +19,7 @@ identifiers:
   title: "VIAF"
   url: "http://viaf.org/viaf/262260288"
 title: "Prof. Dr. Kai Eckert"
+description: "Official webpage of Prof. Dr. Kai Eckert, Web-based Information Systems and Services, Stuttgart Media University."
 function: "Head of Group"
 ---
 

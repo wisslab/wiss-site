@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+description: "Find us, reach us, write us, get in touch."
 date: 2016-02-16
 ---
 {{% column 8 %}}

@@ -1,3 +1,7 @@
+---
+title: People
+description: Direct links to our team.
+---
 # People
 
 ## Professors

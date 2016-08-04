@@ -1,0 +1,17 @@
+---
+Teachings:
+   title: Teaching
+   description: Lectures given by our group.
+Projects:
+   title: Projects
+   description: Current research activities.
+News:
+   title: News
+   description: Recent news from our group.
+Careers:
+   title: Career
+   description: Join us!
+WISS | Stuttgart Media University:
+   title: WISS | Stuttgart Media University
+   description: Web-based Information Systems and Services Research Group, Prof. Dr. Kai Eckert, Stuttgart Media University. In varios projects and industry partnerships, we explore new applications for data science and web science.
+---

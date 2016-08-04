@@ -1,3 +1,12 @@
+{{ .Scratch.Add "title" "" }}
+{{ .Scratch.Add "description" "" }}
+{{ if isset .Site.Data.titles .Title }}
+    {{ .Scratch.Set "title" (index .Site.Data.titles .Title).title }}
+    {{ .Scratch.Set "description" (index .Site.Data.titles .Title).description }}
+{{ else }}
+    {{ .Scratch.Set "title" .Title}}
+    {{ .Scratch.Set "description" .Description}}
+{{end}}
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -10,7 +19,8 @@
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" href="/css/wiss.css">
     
-    <title>{{ .Site.Title }}</title>
+    <title>{{ with .Scratch.Get "title"}}{{ . }} | {{end}}{{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Scratch.Get "description"  }}">
   </head>
   <body>
  
