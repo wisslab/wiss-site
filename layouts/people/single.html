@@ -1,5 +1,25 @@
 {{partial "header.html" . }}
 
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type" : "Person",
+"name" : "{{ .Params.name }}",
+"image" : "{{ .Params.photo }}",
+"jobTitle": "{{.Params.function}}",
+"address" : {
+  "@type" : "PostalAddress",
+  "streetAddress" : "Nobelstr. 10",
+  "addressCountry" : "DE",
+  "addressLocality" : "Stuttgart",
+  "postalCode" : "D-70569"
+},
+{{ with .Params.phone }} "telephone" : "{{ .  }}", {{end}}
+"email" : "See at {{ .Permalink }}"
+}
+</script>
+
+
 <div class="col-md-8">
         <article id="content">
            {{ .Content }}

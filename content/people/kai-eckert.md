@@ -2,7 +2,7 @@
 id: "kai-eckert"
 date: 2016-02-14T01:10:27+01:00
 email: "eckert@hdm-stuttgart.de"
-phone: "+49 (0) 711 8923-3164"
+phone: "49 (0) 711 8923-3164"
 group: "prof"
 name: "Kai Eckert"
 photo: "/img/kai.jpg"

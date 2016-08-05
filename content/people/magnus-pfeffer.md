@@ -2,7 +2,7 @@
 id: "magnus-pfeffer"
 date: 2016-02-19T13:52:08+01:00
 email: "pfeffer@hdm-stuttgart.de"
-phone: "+49 (0) 711 8923-3169"
+phone: "49 (0) 711 8923-3169"
 group: "prof"
 identifiers:
 - id: "2-2141-6721"

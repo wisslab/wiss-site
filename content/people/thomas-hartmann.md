@@ -5,7 +5,7 @@ affiliation:
   url: "http://www.gesis.org"
 date: 2016-02-17T14:10:47+01:00
 email: "thomas.hartmann@gesis.org"
-phone: "+49 (0621) 1246-271"
+phone: "49 (0621) 1246-271"
 group: "alumni"
 identifiers:
 - id: "1-5324-4306"
