@@ -11,7 +11,7 @@
       url: "http://bib.uni-mannheim.de"
   staff: 
     - name: "Dominique Ritze"
-      url: "/persons/dominique-ritze"
+      url: "/people/dominique-ritze"
   title: "InFoLiS II - Integration of research data and literature in the Social Sciences"
   date: 2015-02-24T10:24:24+01:00
   website: "http://infolis.github.io"
