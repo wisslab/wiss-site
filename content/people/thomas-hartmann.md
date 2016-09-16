@@ -4,8 +4,7 @@ affiliation:
 - name: "GESIS Leibniz Institute for Social Sciences"
   url: "http://www.gesis.org"
 date: 2016-02-17T14:10:47+01:00
-email: "thomas.hartmann@gesis.org"
-phone: "49 (0621) 1246-271"
+email: "mail@dr-thomashartmann.de"
 group: "alumni"
 identifiers:
 - id: "1-5324-4306"
@@ -20,11 +19,6 @@ supervisor:
   name: "Prof. Dr. York Sure-Vetter"
   url: "http://www.aifb.kit.edu/web/York_Sure-Vetter"
 title: Dr.-Ing. Thomas Hartmann
-website:
-- name: "Thomas @ GESIS"
-  url: "http://www.gesis.org/das-institut/mitarbeiterverzeichnis/?alpha=B&name=thomas%2Chartmann"
-- name: "Thomas @ KIT"
-  url: "http://www.aifb.kit.edu/web/Thomas_Hartmann"
 ---
 
 # Dr.-Ing. Thomas Hartmann, M.Sc. (TUM)

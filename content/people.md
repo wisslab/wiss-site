@@ -8,6 +8,7 @@ description: Direct links to our team.
    |   
 ---|---
 {{< person "kai-eckert">}} | {{< person "magnus-pfeffer">}}
+{{< person "benjamin-zapilko">}} | 
 
 ## Postdoctoral Researchers
    |   
