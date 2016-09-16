@@ -2,6 +2,61 @@
   {
     "references": [
       {
+        "DOI": "10.13140/RG.2.1.1721.1122",
+        "publisher-place": "Bergen",
+        "container-title": "4th Conference of the European Society for Research on Internet Interventions",
+        "author": [
+          {
+            "family": "Dadvar",
+            "given": [
+              "Maral"
+            ]
+          },
+          {
+            "family": "Jong",
+            "dropping-particle": "de",
+            "given": [
+              "Franciska"
+            ]
+          }
+        ],
+        "id": "Dadvar2016",
+        "issued": {
+          "year": 2016
+        },
+        "abstract": "The Internet is ubiquitous. Our interactions along with our personal lives have become interwoven with the Internet. It has transformed interpersonal behaviour which has resulted in new forms of relationships and communication. With appearance of the Internet new form of societal problems, such as cyberbullying have emerged. Cyberbullying is an old social misconduct, known as bullying, that has found its way into virtual communities. Measures to reduce the frequency and impact of any online misbehaviour can be rooted in various perspectives. Computational approaches that aim to detect instances of cyberbullying are promising, but this paper argues that they should take a broader angle for combating the problem than the mere technical view. Social studies have reached valuable findings that can be used as informative sources in technical solutions. Taking the behavioural trends and personal characteristics of users can be beneficial for enhancing the effectiveness of tools for the automatic detection of online misbehaviour. The findings in our experimental works can be taken as an encouragement for researchers to integrate the knowledge of social and behavioural studies with those of technical research and take a more comprehensive look while tackling an online misbehaviour.",
+        "title": "The Need for Joint Societal and Technical Solutions for Online Misbehaviour",
+        "type": "paper-conference",
+        "keyword": "Cyberbullying Detection,Expert Knowledge,Internet Intervention,Social Networks,Virtual Community"
+      },
+      {
+        "DOI": "10.13140/RG.2.2.19904.12802",
+        "publisher-place": "Porto",
+        "container-title": "27th DEXA Conferences and Workshops",
+        "author": [
+          {
+            "family": "Dadvar",
+            "given": [
+              "Maral"
+            ]
+          },
+          {
+            "family": "Niamir",
+            "given": [
+              "Aidin"
+            ]
+          }
+        ],
+        "id": "Dadvar2016a",
+        "issued": {
+          "year": 2016
+        },
+        "abstract": "Bullying is a widespread problem in cyberspace and social networks. Therefore, in the recent years many studies have been dedicated to cyberbullying. Lack of appropriate dataset, due to variety of reasons, is one of the major obstacles faced in most studies. In this work we suggest that to overcome some of these barriers a model should be employed which is minimally affected by prevalence and small sample size. To this end we adopted the use of the Maximum Entropy method (MaxEnt) to identify the bully users in YouTube. The final results were compared with the commonly used methods. All models provided reasonable prediction of the bullying incidents. MaxEnt models had the highest discrimination capacity of bullying posts and the lowest sensitivity towards prevalence. We demonstrate that MaxEnt can be successfully adopted to cyberbullying studies with imbalanced datasets.",
+        "title": "Adopting MaxEnt to Identification of Bullying Incidents in Social Networks",
+        "type": "paper-conference",
+        "keyword": "Bully,Cyberbullying,Maximum Entropy,Prevalence,Social Networks,YouTube"
+      },
+      {
         "DOI": "10.3990/1.9789036537391",
         "publisher-place": "Enschede, The Netherlands",
         "URL": "http://doc.utwente.nl/91720/ http://purl.org/utwente/doi/10.3990/1.9789036537391",
