@@ -1,7 +1,7 @@
 {{$.Scratch.Set "bibfile" "bibliography"}}
 {{with .Page.Params.publications}}{{$.Scratch.Set "bibfile" .}}{{end}}
 {{with .Params.file}}{{$.Scratch.Set "bibfile" .}}{{end}}
-{{$references:=index .Page.Site.Data ($.Scratch.Get "bibfile")  0 "references" }}
+{{$references:=index .Page.Site.Data ($.Scratch.Get "bibfile") }}
 {{with .Get "id"}}
 {{ range where $references "id" .}}
 {{partial "pubSingle" .}}
