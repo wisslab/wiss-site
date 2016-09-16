@@ -168,6 +168,29 @@
         "issue": 2
       },
       {
+        "volume": 62,
+        "page": "123-124",
+        "container-title": "Information, Wissenschaft & Praxis",
+        "author": [
+          {
+            "family": "Mainka",
+            "given": [
+              "Agnes"
+            ]
+          },
+          {
+            "family": "Dröge",
+            "given": [
+              "Evelyn"
+            ]
+          }
+        ],
+        "id": "mainka62swif",
+        "title": "SWiF: Wissensaustausch unter Jungakademikern",
+        "type": "article-journal",
+        "issue": "2-3"
+      },
+      {
         "page": "252-263",
         "container-title": "Metadata and Semantics Research",
         "author": [
