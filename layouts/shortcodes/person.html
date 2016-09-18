@@ -19,7 +19,7 @@ You?
 <table class="datatable">
 <tr><th>Name: </th><td><a href="/people/{{$data.id}}">{{ .Title }}</a></td></tr>
 {{with $data.function}}<tr><th></th><td>{{ .}}</td></tr>{{end}}
-<tr><th>Email: </th><td>{{partial "email" (dict "email" $data.email) }}</td></tr>
+<tr><th>Email: </th><td>{{partial "email" (dict "email" (delimit (slice $data.emailuser "@" $data.emaildomain) "")) }}</td></tr>
 {{with $data.phone}}
 <tr><th>Phone: </th><td>{{.}}</td></tr>
 {{end}}

@@ -4,7 +4,8 @@ affiliation:
 - name: "IBM"
   url: "http://www.ibm.com"
 date: 2016-02-17T14:10:29+01:00
-email: "evelyn.droege@ibi.hu-berlin.de"
+emailuser: "evelyn.droege"
+emaildomain: "ibi.hu-berlin.de"
 group: "affiliated"
 name: "Evelyn Dröge"
 photo: "/img/evelyn.jpeg"

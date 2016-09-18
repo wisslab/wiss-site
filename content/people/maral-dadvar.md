@@ -1,7 +1,8 @@
 ---
 id: maral-dadvar
 date: 2016-06-03T14:10:40+01:00
-email: "dadvar@hdm-stuttgart.de"
+emailuser: "dadvar"
+emaildomain: "hdm-stuttgart.de"
 phone: 
 group: "postdoc"
 name: "Maral Dadvar"

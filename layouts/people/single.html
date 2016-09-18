@@ -32,7 +32,7 @@
 <img class="pageLogo" src="{{$data.photo}}"/>
 <table class="datatable">
 <tr><th>Name: </th><td>{{ $data.name }}</td></tr>
-<tr><th>Email: </th><td>{{partial "email" (dict "email" $data.email) }}</td></tr>
+<tr><th>Email: </th><td>{{partial "email" (dict "email" (delimit (slice $data.emailuser "@" $data.emaildomain) "")) }}</td></tr>
 {{with $data.phone}}
 <tr><th>Phone: </th><td>{{.}}</td></tr>
 {{end}}

@@ -3,7 +3,8 @@ affiliation:
 - name: "WISS Research Group"
   url: "http://www.wisslab.org"
 date: 2016-04-18T14:25:29+02:00
-email: "js263@hdm-stuttgart.de"
+emailuser: "js263"
+emaildomain: "hdm-stuttgart.de"
 group: "hiwi"
 id: "jens-steilen"
 name: "Jens Steilen"

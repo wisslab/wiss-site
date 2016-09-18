@@ -3,7 +3,8 @@ affiliation:
 - name: "WISS Research Group"
   url: "http://www.wisslab.org"
 date: 2016-07-08T09:28:47+02:00
-email: "an036@hdm-stuttgart.de"
+emailuser: "an036"
+emaildomain: "hdm-stuttgart.de"
 group: "hiwi"
 id: "anh-duc-nguyen"
 name: "Anh Duc Nguyen"
