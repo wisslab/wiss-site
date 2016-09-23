@@ -4,7 +4,7 @@ title: career
 ---
 {{% column 8 %}}
 # Industry partnerships
-Do you already have a job and would like to get a doctorate? Or are you looking for a job with this opportunity? Maybe we can help you. Of course, everything about [getting a doctorate](get-a-doctorate) applies.
+Do you already have a job and would like to get a doctorate? Or are you looking for a job with this opportunity? Maybe we can help you. Of course, everything about [getting a doctorate](/career/get-a-doctorate) applies.
 
 With the companies to the right, we already have liaisons, be it within research projects, with student employees or mutual research interests. You might want to check if they have interesting offers for you.
 
@@ -18,7 +18,6 @@ We are always interested in new collaborations and exciting new research questio
 <a href="http://www.p3-group.com"><img src="/img/p3_group.png" style="padding-top: 20px;"/></a>
 </div>
 
-Read more on [industry partnerships](industry).
 
 {{% /column %}}
 
