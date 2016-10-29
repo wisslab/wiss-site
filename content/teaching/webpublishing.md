@@ -1,16 +1,20 @@
 ---
 courses: Alle Studiengänge
-date: 2016-02-19T23:00:25+01:00
+date: 2016-10-19T23:00:25+01:00
 ects: "6"
 exam: "LA"
 language: Deutsch
 lecturers:
 - name: Prof. Dr. Kai Eckert
   url: /people/kai-eckert
+- name: Dr. Benjamin Zapilko
+  url: /people/benjamin-zapilko
 number: "331109"
 semesters:
 - moodle: "1536"
   semester: "SS 2016"
+- moodle: "1760"
+  semester: "WS 2016"
 sws: "4"
 lecturetype: "Regulär / Vorlesung mit integrierter Übung"
 title: Webpublishing
@@ -28,14 +32,3 @@ Je nach Interessenslage kann so eine vollständige Website oder Webanwendung sel
 ## Voraussetzungen
 keine
 
-## Prüfungsleistung
-
-## Ablauf der Veranstaltung
-
-## Lernmaterial / Skript
-Parallel zur Veranstaltung wird ein Skript mit weiterführenden Informationen erstellt.
-
-Das Skript ist online (nur aus dem Netz der HdM, bzw. per VPN erreichbar):
-
-- [Folien](https://www.hdm-stuttgart.de/intranet/~eckert/teaching/ss16/webpublishing/webpublishing.html)
-- [PDF-Skript (inhaltsidentisch)](https://www.hdm-stuttgart.de/intranet/~eckert/teaching/ss16/webpublishing/webpublishing.pdf)

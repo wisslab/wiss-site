@@ -15,7 +15,9 @@ We are always interested in new collaborations and exciting new research questio
 <div style="text-align:center">
 <a href="http://www.bosch.com"><img src="/img/bosch_logo_english.png"/></a><br/>
 <a href="http://www.springernature.com"><img src="/img/logo-springernature.png" style="padding-top:20px;padding-bottom:20px;"/></a><br/>
-<a href="http://www.p3-group.com"><img src="/img/p3_group.png" style="padding-top: 20px;"/></a>
+<a href="http://www.p3-group.com"><img src="/img/p3_group.png" style="padding-top: 20px;"/></a><br/>
+<a href="http://www.ibm.com"><img src="/img/ibm.png" style="padding-top: 20px;"/></a><br/>
+<a href="http://www.dw.com"><img src="/img/dwlogo.png" style="padding-top: 20px;"/></a>
 </div>
 
 

@@ -22,14 +22,20 @@ description: Direct links to our team.
    |   
 ---|---
 {{< person dominique-ritze >}}  | {{< person evelyn-droege >}}
-{{< person question  "/career/get-a-doctorate" >}} |
+{{< person anne-lauscher >}} | {{< person question  "/career/get-a-doctorate" >}}
 
+## Visiting Researchers
 
-## Student Research Assistants
+   |   
+---|---
+{{< person mari-itoh >}}  |
+
+## Student Research Assistants, Interns
 
    |   
 ---|---
 {{< person jens-steilen >}}  | {{< person anh-duc-nguyen >}}
+{{< person max-botta >}} | {{< person joshua-hill >}}
 {{< person question   "/career/" >}} |
 
 ## Alumni
