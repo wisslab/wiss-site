@@ -2,8 +2,8 @@
 author: kai-eckert
 category: general
 date: 2016-09-01T10:05:09+02:00
-featured: "false"
-picture:
+featured: "true"
+picture: /img/mari-itoh-welcome.png
 title: Prof. Dr. Mari Itoh visits WISS
 ---
 We welcome [Mari Itoh](/people/mari-itoh) as a visiting researcher in our group. She is a professor at the faculty of human informatics at the Aichi Shukutoku University, Nagoya, Japan.
