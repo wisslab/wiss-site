@@ -6,7 +6,7 @@ emaildomain: "hdm-stuttgart.de"
 phone:
 group: "visitors"
 name: "Mari Itoh"
-photo: "/img/avatar.gif"
+photo: "/img/mari-itoh.jpg"
 research: "Music Information Retrieval"
 title: "Prof. Dr. Mari Itoh"
 description: "Prof. Dr. Mari Itoh visits Stuttgart Media University during WS 2016/2017."
