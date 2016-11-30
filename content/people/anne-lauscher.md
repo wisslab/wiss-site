@@ -6,7 +6,7 @@ emaildomain: "hdm-stuttgart.de"
 phone:
 group: "phd"
 name: "Anne Lauscher"
-photo: "/img/avatar.gif"
+photo: "/img/anne.jpg"
 projects:
 - name: "LOC-DB"
   url: "/projects/loc-db"
