@@ -8,7 +8,7 @@ emaildomain: "gmx.de"
 group: "hiwi"
 id: "max-botta"
 name: "Max Botta"
-photo: /img/avatar.gif
+photo: /img/max.jpg
 projects:
 - name: "Deutsche Welle Web Analytics"
   url: "http://wiss.iuk.hdm-stuttgart.de/projects/dwwa"
