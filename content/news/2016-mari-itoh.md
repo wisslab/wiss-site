@@ -2,7 +2,7 @@
 author: kai-eckert
 category: general
 date: 2016-09-01T10:05:09+02:00
-featured: "true"
+featured: "false"
 picture: /img/mari-itoh-welcome.png
 title: Prof. Dr. Mari Itoh visits WISS
 ---

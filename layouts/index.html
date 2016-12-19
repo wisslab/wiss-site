@@ -45,7 +45,7 @@
 </div>
 
 <div class="row">
-{{range first 3 (where .Site.Pages "Params.featured" "false")}}
+{{range first 3 (where (where .Site.Pages "Params.featured" "false") "Params.big" "!=" "true")}}
   <div class="col-md-4">
  <h3>{{.Title}}</h3>
  <p><i>{{dateFormat "Mon, January _2, 2006" .Date}}</i></p>

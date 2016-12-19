@@ -175,6 +175,10 @@ img.pageLogo {
     box-shadow: 1px 1px 2px 1px rgba(143,143,143,1);
 }
 
+img {
+    max-width:100%;
+}
+
 .sectionitem {
     margin-bottom:40px;
 }
