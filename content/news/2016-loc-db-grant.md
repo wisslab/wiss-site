@@ -2,7 +2,7 @@
 author: kai-eckert
 category: general
 date: 2016-07-11
-featured: "true"
+featured: "false"
 picture: "/img/locdb.png"
 title: "Linked Open Citation Data Base (LOC-DB)"
 ---
