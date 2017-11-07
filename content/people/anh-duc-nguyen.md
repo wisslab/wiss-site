@@ -16,6 +16,7 @@ publications: ""
 research: ""
 title: Anh Duc Nguyen
 website: ""
+function: Student Assistant (Sep 2016 - Feb 2017) 
 ---
 
 # Anh Duc Nguyen

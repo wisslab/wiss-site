@@ -4,7 +4,7 @@ date: 2016-09-01T01:10:27+01:00
 emailuser: "Benjamin.Zapilko"
 emaildomain: "gesis.org"
 phone: "49 (0) 221 / 47694 - 515"
-group: "prof"
+group: "alumni"
 name: "Benjamin Zapilko"
 photo: "/img/zapilko.jpg"
 research: "Data Linking"
@@ -20,7 +20,7 @@ identifiers:
   url: "http://viaf.org/viaf/189894699"
 title: "Dr. Benjamin Zapilko"
 description: "Dr. Benjamin Zapilko serves as interim professor at Stuttgart Media University during WS 2016/2017."
-function: "Interim Professor"
+function: "Interim Professor (WS 2016/2017)"
 ---
 
 # Dr. Benjamin Zapilko

@@ -8,7 +8,6 @@ description: Direct links to our team.
    |   
 ---|---
 {{< person "kai-eckert">}} | {{< person "magnus-pfeffer">}}
-{{< person "benjamin-zapilko">}} | 
 
 ## Postdoctoral Researchers
    |   
@@ -21,25 +20,21 @@ description: Direct links to our team.
 
    |   
 ---|---
-{{< person dominique-ritze >}}  | {{< person evelyn-droege >}}
-{{< person anne-lauscher >}} | {{< person question  "/career/get-a-doctorate" >}}
+{{< person anne-lauscher >}}  | {{< person evelyn-droege >}}
+ | {{< person question  "/career/get-a-doctorate" >}}
 
-## Visiting Researchers
-
-   |   
----|---
-{{< person mari-itoh >}}  |
 
 ## Student Research Assistants, Interns
 
    |   
 ---|---
-{{< person jens-steilen >}}  | {{< person anh-duc-nguyen >}}
 {{< person max-botta >}} | {{< person joshua-hill >}}
-{{< person question   "/career/" >}} |
+| {{< person question   "/career/" >}}
 
 ## Alumni
 
    |   
 ---|---
-{{< person thomas-hartmann >}}  |
+{{< person thomas-hartmann >}}  | {{< person dominique-ritze >}}
+{{< person "benjamin-zapilko">}} | {{< person mari-itoh >}}
+{{< person jens-steilen >}}  | {{< person anh-duc-nguyen >}}

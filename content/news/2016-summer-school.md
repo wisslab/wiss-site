@@ -2,7 +2,7 @@
 author: kai-eckert
 category: general
 date: 2016-05-02T20:05:05+02:00
-featured: "true"
+featured: "false"
 picture: "/img/n8-wiese.jpg"
 title: LIS International Summer School 2016
 ---

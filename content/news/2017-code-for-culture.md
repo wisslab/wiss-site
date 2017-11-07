@@ -2,7 +2,7 @@
 author: kai-eckert
 category: general
 date: 2017-05-19T20:05:05+02:00
-featured: "true"
+featured: "false"
 big: "false"
 picture: "/img/gamejam.png"
 title: "GameJam: Code for Culture"

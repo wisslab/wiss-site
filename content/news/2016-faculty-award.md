@@ -2,7 +2,7 @@
 author: kai-eckert
 category: general
 date: 2016-12-16T20:05:05+02:00
-featured: "true"
+featured: "flase"
 big: "false"
 picture: "/img/faculty-award-foto.jpg"
 title: "IBM Faculy Award 2016"

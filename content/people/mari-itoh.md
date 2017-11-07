@@ -10,7 +10,7 @@ photo: "/img/mari-itoh.jpg"
 research: "Music Information Retrieval"
 title: "Prof. Dr. Mari Itoh"
 description: "Prof. Dr. Mari Itoh visits Stuttgart Media University during WS 2016/2017."
-function: "Visiting Researcher"
+function: "Visiting Researcher (SS 2017)"
 ---
 
 # Prof. Dr. Mari Itoh

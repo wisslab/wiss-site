@@ -3,12 +3,11 @@ id: dominique-ritze
 date: 2016-02-17T14:10:40+01:00
 emailuser: "dominique"
 emaildomain: "informatik.uni-mannheim.de"
-phone: "49 (0621) 181-2566"
 affiliation:
 - name: "Research Group Data and Web Science"
   url: "http://dws.informatik.uni-mannheim.de"
-group: "phd"
-name: "Dominique Ritze"
+group: "alumni"
+name: "Dr. Dominique Ritze"
 photo: "/img/domiKlein.gif"
 projects:
 - name: "InFoLiS II"
@@ -19,13 +18,14 @@ supervisor:
 - affiliation: "University of Mannheim"
   name: "Prof. Dr. Christian Bizer"
   url: "http://dws.informatik.uni-mannheim.de/en/people/professors/profdrchristianbizer/"
-title: Dipl. Inf. Dominique Ritze
+title: Dr. Dominique Ritze
 website:
 - name: "Dominique @ DWS"
   url: "http://dws.informatik.uni-mannheim.de/en/people/researchers/dominiqueritze/"
+function: Defended in 2017
 ---
 
-# Dominique Ritze
+# Dr. Dominique Ritze
 
 *Diplom-Informatikerin (MSc Computer Science)*
 

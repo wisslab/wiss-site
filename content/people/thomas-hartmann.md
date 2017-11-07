@@ -20,6 +20,7 @@ supervisor:
   name: "Prof. Dr. York Sure-Vetter"
   url: "http://www.aifb.kit.edu/web/York_Sure-Vetter"
 title: Dr.-Ing. Thomas Hartmann
+function: Defended in 2016
 ---
 
 # Dr.-Ing. Thomas Hartmann, M.Sc. (TUM)

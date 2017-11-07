@@ -16,6 +16,7 @@ publications: ""
 research: ""
 title: Jens Steilen
 website: ""
+function: Student Assistant (Mar 2016 - Sep 2016)
 ---
 
 # Jens Steilen
