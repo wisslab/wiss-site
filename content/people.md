@@ -29,7 +29,7 @@ description: Direct links to our team.
    |   
 ---|---
 {{< person max-botta >}} | {{< person joshua-hill >}}
-| {{< person question   "/career/" >}}
+ | {{< person question   "/career/" >}}
 
 ## Alumni
 
