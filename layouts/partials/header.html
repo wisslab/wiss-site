@@ -14,35 +14,39 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" href="/css/wiss.css">
-    
+
     <title>{{ with .Scratch.Get "title"}}{{ . }} | {{end}}{{ .Site.Title }}</title>
     <meta name="description" content="{{ .Scratch.Get "description"  }}">
   </head>
   <body>
- 
+
     <div class="container toptitle">
       <div class="titleContent">
-      <a href="/">Web-based Information Systems and Services</a> 
-      <a class="toplogo pull-right" href="http://www.hdm-stuttgart.de/">
-        <img src="/img/hdm-logo.gif" alt="">
-      </a>
+        <div class="title col-md-8">
+          <a href="/">Web-based Information Systems and Services</a>
+        </div>
+        <div class="hdmlogo  col-md-4">
+          <a class="toplogo" href="http://www.hdm-stuttgart.de/">
+            <img src="/img/logo_web.svg" height="80" alt="">
+          </a>
+        </div>
       </div>
       <div id="svgTarget" class="titleBackground">
       </div>
     </div>
-    
+
     <!-- Page Content -->
     <div class="container">
-      
+
       <!-- Navigation -->
       <nav class="navbar gradient_corporate_color" role="navigation">
         <div class="container">
           <!-- Brand and toggle get grouped for better mobile display -->
-          
+
           <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
               <span class="sr-only">Toggle navigation</span>
@@ -72,7 +76,7 @@
 	      <li>
                 <a href="/career">Career</a>
               </li>
-      
+
 <!--
               <li class="dropdown">
 		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
@@ -96,6 +100,3 @@
         </div>
         <!-- /.container -->
       </nav>
-      
-
-
