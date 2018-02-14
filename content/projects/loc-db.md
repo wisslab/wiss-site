@@ -29,8 +29,6 @@ The project will use well-known methods of information extraction and adapt them
 
 The system will be deployable to use productively by a single library, but in principle it will also be scalable for using it in a network.
 
+## Poster
 
-
-
-## Updates
-
+[![Poster](/poster/poster-locdb-small.png)](/poster/poster-locdb.pdf)

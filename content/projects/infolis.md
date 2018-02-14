@@ -25,3 +25,8 @@ InFoLiS II - Integration of research data and literature in the Social Sciences
 The InFoLiS follow-up project focuses on the identification of references to research data in publications in different languages and domains. To generate and provide the references, a sustainable LOD-infrastructure will be built.
 
 For more and up-to-date information, please check our dedicates [InFoLiS Website](http://infolis.github.io).
+
+
+## Poster
+
+[![Poster](/poster/poster-infolis-small.png)](/poster/poster-infolis.pdf)

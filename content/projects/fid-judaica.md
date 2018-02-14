@@ -29,3 +29,8 @@ We are looking for a researcher to work with us in this project. Find more infor
 The German press release is out:
 
 https://www.hdm-stuttgart.de/view_news?ident=news20160126173433
+
+
+## Poster
+
+[![Poster](/poster/poster-fid-judaica-small.png)](/poster/poster-fid-judaica.pdf)

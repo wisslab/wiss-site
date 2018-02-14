@@ -17,3 +17,8 @@ Deutsche Welle Web Analytics
 ============================
 
 Within this project, we develop Web Analytics tools and approaches for Deutsche Welle, including focused and specilized Web crawlers, business intelligence tools and advanced visualization and analytics components.
+
+
+## Poster
+
+[![Poster](/poster/poster-dw-small.png)](/poster/poster-dw.pdf)
