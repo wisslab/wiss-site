@@ -1,13 +1,13 @@
 {
 	"default": {
 		"short": "",
-		"long": "http://wiss.iuk.hdm-stuttgart.de",
+		"long": "http://wiss.iuk.hdm-stuttgart.de/2018/bad-url/",
 		"description": "This URL is used if no other entry matches.",
 		"date": "2018-08-31"
 	},
 	"root": {
 		"short": "/",
-		"long": "http://wiss.iuk.hdm-stuttgart.de",
+		"long": "http://wiss.iuk.hdm-stuttgart.de/",
 		"description": "This URL is used for webroot.",
 		"date": "2018-08-31"
 		},
