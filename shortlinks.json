@@ -1,0 +1,23 @@
+{
+	"default": {
+		"short": "",
+		"long": "http://wiss.iuk.hdm-stuttgart.de",
+		"description": "This URL is used if no other entry matches.",
+		"date": "2018-08-31"
+	},
+	"root": {
+		"short": "/",
+		"long": "http://wiss.iuk.hdm-stuttgart.de",
+		"description": "This URL is used for webroot.",
+		"date": "2018-08-31"
+		},
+	"entries": [
+		{
+		"short": "wissbot",
+		"long": "http://wiss.iuk.hdm-stuttgart.de/content/news/2018-wissbot/",
+		"description": "WISSbot project.",
+		"date": "2018-08-31"
+		}
+	]
+
+}
