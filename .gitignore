@@ -2,3 +2,6 @@ public/*
 \#*#
 .#*
 data/*.json
+hugo
+**/*.swp
+**/*.bak
