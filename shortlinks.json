@@ -17,6 +17,12 @@
 		"long": "http://wiss.iuk.hdm-stuttgart.de/2018/wissbot/",
 		"description": "WISSbot project.",
 		"date": "2018-08-31"
+		},
+		{
+		"short": "ccmm",
+		"long": "https://www.hdm-stuttgart.de/forschung_transfer/forschungsschwerpunkte/metadatenmanagement/home",
+		"description": "Competence Center for Metadata Management",
+		"date": "2018-10-10"
 		}
 	]
 
