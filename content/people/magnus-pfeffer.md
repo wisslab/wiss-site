@@ -34,6 +34,10 @@ title: Prof. Magnus Pfeffer
 
 
 ## Publications
+### 2018
+{{< publication year="2018" >}}
+### 2017
+{{< publication year="2017" >}}
 ### 2016
 {{< publication year="2016" >}}
 ### 2015
