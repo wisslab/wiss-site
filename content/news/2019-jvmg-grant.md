@@ -2,7 +2,7 @@
 author: magnus-pfeffer
 category: general
 date: 2019-01-07
-featured: "true"
+featured: "false"
 picture: ""
 title: "Japanese Visual Media Graph"
 ---
