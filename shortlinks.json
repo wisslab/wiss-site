@@ -29,6 +29,12 @@
 		"long": "https://www.dropbox.com/s/h3run6uocmqwqgt/WISS%20%40%20Markupforum.pdf?dl=0",
 		"description": "Presentation at Markup Forum 2018",
 		"date": "2018-11-16"
+		},
+		{
+		"short": "keys",
+		"long": "https://gist.githubusercontent.com/kaiec/c75437637eb23946023a9c858ff447a8/raw/keyboard.sh?nocache",
+		"description": "Adjust keyboard layout to whatever Kai thinks is a good idea...",
+		"date": "2019-01-27"
 		}
 	]
 
