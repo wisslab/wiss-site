@@ -35,7 +35,14 @@
 		"long": "https://gist.githubusercontent.com/kaiec/c75437637eb23946023a9c858ff447a8/raw/keyboard.sh?nocache",
 		"description": "Adjust keyboard layout to whatever Kai thinks is a good idea...",
 		"date": "2019-01-27"
+		},
+		{
+		"short": "winkeys",
+		"long": "https://github.com/kaiec/keyboard-layout/raw/master/windows/kai-keys.exe?nocache",
+		"description": "Adjust keyboard layout to whatever Kai thinks is a good idea...",
+		"date": "2019-02-02"
 		}
+		
 	]
 
 }
