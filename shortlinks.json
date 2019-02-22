@@ -41,6 +41,12 @@
 		"long": "https://github.com/kaiec/keyboard-layout/raw/master/windows/kai-keys.exe?nocache",
 		"description": "Adjust keyboard layout to whatever Kai thinks is a good idea...",
 		"date": "2019-02-02"
+		},
+		{
+		"short": "rabbit68",
+		"long": "https://github.com/kaiec/rabbit68",
+		"description": "Custom Keyboard",
+		"date": "2019-02-22"
 		}
 		
 	]
