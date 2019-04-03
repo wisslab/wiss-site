@@ -12,7 +12,7 @@ description: Direct links to our team.
 ## Postdoctoral Researchers
    |   
 ---|---
-{{< person "maral-dadvar">}} |
+{{< person "maral-dadvar">}} | {{< person "marco-rovera">}} 
 
 
 

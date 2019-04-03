@@ -3,7 +3,7 @@ author: kai-eckert
 category: general
 date: 2017-03-01T20:05:05+02:00
 featured: "false"
-big: "true"
+big: "false"
 picture: "/img/judaicalink-graphic.png"
 title: "Featured Project: JudaicaLink"
 ---
