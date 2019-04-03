@@ -20,16 +20,14 @@ description: Direct links to our team.
 
    |   
 ---|---
-{{< person anne-lauscher >}}  | {{< person evelyn-droege >}}
- | {{< person question  "/career/get-a-doctorate" >}}
+{{< person anne-lauscher >}}  | {{< person question  "/career/get-a-doctorate" >}}
 
 
 ## Student Research Assistants, Interns
 
    |   
 ---|---
-{{< person max-botta >}} | {{< person joshua-hill >}}
- | {{< person question   "/career/" >}}
+{{< person max-botta >}} | {{< person question   "/career/" >}}
 
 ## Alumni
 
@@ -38,3 +36,4 @@ description: Direct links to our team.
 {{< person thomas-hartmann >}}  | {{< person dominique-ritze >}}
 {{< person "benjamin-zapilko">}} | {{< person mari-itoh >}}
 {{< person jens-steilen >}}  | {{< person anh-duc-nguyen >}}
+{{< person joshua-hill >}}

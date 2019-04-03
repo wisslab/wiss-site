@@ -1,12 +1,12 @@
 ---
 id: marco-rovera
-date: 2019-04-03T12:30:40+01:00
+date: 2019-04-03T10:30:40+01:00
 emailuser: "rovera"
 emaildomain: "hdm-stuttgart.de"
 phone: 
 group: "postdoc"
 name: "Marco Rovera"
-photo: 
+photo: "/img/avatar.gif" 
 projects:
 publications: "rovera"
 research: "Natural Language Processing"
