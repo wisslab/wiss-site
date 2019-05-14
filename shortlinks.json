@@ -47,8 +47,14 @@
 		"long": "https://github.com/kaiec/rabbit68",
 		"description": "Custom Keyboard",
 		"date": "2019-02-22"
+		},
+		{
+		"short": "openki2019",
+		"long": "https://docs.google.com/presentation/d/1-2NbiOPpHiPty6XVo6oM29Z3tFsZz1Mlr9rqLGpm7BY/edit?usp=sharing",
+		"description": "Slides for Open KI Workshop in Mannheim",
+		"date": "2019-05-14"
 		}
-		
+
 	]
 
 }
