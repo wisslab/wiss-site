@@ -14,11 +14,13 @@ identifiers:
 name: "Martin Roth"
 photo: "/img/roth.jpg"
 publications: "roth"
-research: "Data crunching"
-title: Jun.-Prof. Dr. Martin Roth
+research: "Contemporary Japanese Visual Media"
+title: Dr. Martin Roth
 ---
 
-# Jun.-Prof. Dr. Martin Roth
+# Dr. Martin Roth
+
+*Research Fellow*
 
 
 ## Research
