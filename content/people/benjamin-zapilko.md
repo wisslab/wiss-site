@@ -20,7 +20,7 @@ identifiers:
   url: "http://viaf.org/viaf/189894699"
 title: "Dr. Benjamin Zapilko"
 description: "Dr. Benjamin Zapilko serves as interim professor at Stuttgart Media University during WS 2016/2017."
-function: "Interim Professor (WS 2016/2017)"
+function: "Interim Professor (WS 2016/17 and SS 2019)"
 ---
 
 # Dr. Benjamin Zapilko
