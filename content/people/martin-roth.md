@@ -23,6 +23,7 @@ title: Jun.-Prof. Dr. Martin Roth
 
 ## Research
 - Japan in the age of new and digital media
+- Data driven research in the domain of contemporary Japanese visual media
 
 
 ## Publications
