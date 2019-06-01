@@ -15,3 +15,14 @@ Do your changes with a simple text editor. The content is mostly written in Mark
 Watch the console for errors if your changes do not show up as expected.
 
 When you are done, commit your changes to your forked repository and send the pull request.
+
+Currently used version on the server: [0.31.1](https://github.com/gohugoio/hugo/releases/tag/v0.31.1)
+
+To create the bibliographies, run the following:
+
+```
+#!/bin/bash
+echo "Create bibliographies"
+cd publications
+../tools/bib2json.sh
+```
