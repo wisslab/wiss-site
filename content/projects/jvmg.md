@@ -15,7 +15,7 @@ staff:
 - name: "t.b.d."
   url: "/career"
 title: "Japanese Visual Media Graph"
-website: ""
+website: "https://jvmg.iuk.hdm-stuttgart.de/"
 ---
 
 # Japanese Visual Media Graph
