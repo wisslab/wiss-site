@@ -31,7 +31,7 @@ function: "Head of Group"
 ## Contact
 - **Office:** Nobelstr. 8, Room i201  
   *Meetings are usually in meeting room i206 or i207. Use the phone at the door to call me, if I am not already in one of the meeting rooms.*
-- **Office hours (for students):** [Make an appointment](https://eckert.youcanbook.me).  
+- **Office hours (for students):** Upon request
   *If no suitable slots are available or outside lecture time, please write an email.*
 
 ## Mail policy
@@ -39,8 +39,8 @@ Like many, I unfortunately face an increasing amount of incoming email. The foll
 
 - Notification of absence: In lectures where attendance is required, you have to notify me if you can’t attend. Generally, I do not answer these emails. Consider yourself excused, if you do not hear otherwise.
 - Almost any question about a lecture, besides *very* personal ones, should be posted in the respective Moodle forum. Rule of thumb: if in doubt, use Moodle.
-- Occasionally (admittedly too often), mails "slip through" if I do not answer them immediately and when they get out of sight due to many new mails. If you got no response after three work days, it is ok and even advisable to send me a reminder (in the hope that this doesn’t slip through, too…).
-
+- Occasionally, mails "slip through" if I do not answer them immediately and when they get out of sight due to many new mails. If you got no response after three work days and need one urgently, it is ok and even advisable to send me a reminder.
+- Email is not a chat. I usually check my emails once a day, often in the morning. So do not expect an immediate response. Depending on how unfortunate your email arrives with respect to me checking mails, you can expect an answer within up to 48 hours. If not, see above. Usually, however, it should be at the next day, latest.
 
 
 ## Research
