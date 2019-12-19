@@ -22,8 +22,8 @@ title: "Luca Paolo Bruno"
 
 ## Publications
 
-### 2018
-{{< publication year="2018" >}}
+### 2019
+{{< publication year="2019" >}}
 ### 2017
 {{< publication year="2017" >}}
 
