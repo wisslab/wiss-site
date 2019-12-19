@@ -20,7 +20,8 @@ description: Direct links to our team.
 
    |   
 ---|---
-{{< person anne-lauscher >}}  | {{< person question  "/career/get-a-doctorate" >}}
+{{< person anne-lauscher >}}  | {{< person luca-bruno >}}
+{{< person question  "/career/get-a-doctorate" >}}
 
 
 ## Student Research Assistants, Interns
