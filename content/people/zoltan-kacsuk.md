@@ -19,17 +19,12 @@ title: "Dr. Zoltán Kacsuk"
 
 *Research Fellow*
 
-Dr. Dadvar is an expert in natural language processing with a PhD in computer science from University of Twente, Netherlands. Her prior research focused on cyber-bullying detection in social networks. Within the FID Judaica project, she will combine NLP techniques with identity resolution approaches to facilitate rich data integration.
 
-Students interested in writing a Bachelor or Master thesis in this field are very welcome to get in touch.
 
 ## Publications
-### 2019
-{{< publication year="2019" >}}
+
 ### 2018
 {{< publication year="2018" >}}
 ### 2017
 {{< publication year="2017" >}}
-### 2016
-{{< publication year="2016" >}}
 
