@@ -6,7 +6,7 @@ emaildomain: "hdm-stuttgart.de"
 phone: 
 group: "postdoc"
 name: "Marco Rovera"
-photo: "/img/avatar.gif" 
+photo: "/img/rovera.jpg" 
 projects:
 publications: "rovera"
 research: "Natural Language Processing"
