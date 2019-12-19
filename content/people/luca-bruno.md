@@ -4,7 +4,7 @@ date: 2016-06-03T14:10:40+01:00
 emailuser: "bruno"
 emaildomain: "hdm-stuttgart.de"
 phone: 
-group: "postdoc"
+group: "phd"
 name: "Luca Paolo Bruno"
 photo: "/img/bruno.png"
 projects:
