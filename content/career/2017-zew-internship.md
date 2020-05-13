@@ -8,6 +8,7 @@ workload: Vollzeit
 # weight: 100
 deadline: offen
 picture: /img/zew_logo_deutsch_claim.svg
+draft: true
 
 ---
 Das Zentrum für Europäische Wirtschaftsforschung (ZEW) in Mannheim sucht ab sofort eine Praktikantin / einen Praktikanten im Bereich Information und Kommunikation.

@@ -3,7 +3,7 @@ author: kai-eckert
 category: general
 date: 2019-04-03
 featured: "false"
-big: "true"
+big: "false"
 picture: "/img/iaai-einladung.png"
 title: "Grand Opening of Institute for Applied AI"
 ---
