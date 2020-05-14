@@ -16,11 +16,11 @@ publications: ""
 research: ""
 title: Max Botta
 website: ""
-function: Intern
+function: Student Research Assistant
 ---
 
 # Max Botta
 
-*Intern*
+*Student Research Assistant*
 
-Max Botta studies Business Informatics (Bachelor). He does an internship in the WISS group where he is mainly concerned with Web analytics tasks and Java/JavaScript development in the Deutsche Welle Web ANalytics project.
+Max Botta studies Business Informatics (Bachelor). He is is a student research assistant in the WISS group where he is mainly concerned with Web analytics tasks and Java/JavaScript development in the Deutsche Welle Web Analytics project.

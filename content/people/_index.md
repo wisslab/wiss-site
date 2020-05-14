@@ -28,7 +28,10 @@ description: Direct links to our team.
 
    |   
 ---|---
-{{< person max-botta >}} | {{< person question   "/career/" >}}
+{{< person patricia-kaluza >}} | {{< person julika-stangl >}}
+{{< person sara-fischer >}} | {{< person marcel-pleyer >}}
+{{< person max-botta >}} | {{< person tobias-reumann >}}
+{{< person question   "/career/" >}}
 
 ## Alumni
 
