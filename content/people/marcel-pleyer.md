@@ -8,7 +8,7 @@ emaildomain: "hdm-stuttgart.de"
 group: "hiwi"
 id: "marcel-pleyer"
 name: "Marcel Pleyer"
-photo: /img/avatar.gif
+photo: /img/pleyer.png
 projects:
 - name: "Deutsche Welle Web Analytics"
   url: "http://wiss.iuk.hdm-stuttgart.de/projects/dwwa"
@@ -23,4 +23,4 @@ function: Student Research Assistant
 
 *Student Research Assistant*
 
-Marcel Pleyer studies Business Informatics (Bachelor). He does an internship in the WISS group where he is mainly concerned with Web analytics tasks and Java/JavaScript development in the Deutsche Welle Web ANalytics project.
+Marcel Pleyer is student at the Stuttgart Media University, where he studies Business Informatics (Master). He is a reasearch assistant in the WISS group and is mainly involved in web analysis tasks and JavaScript development within the [Deutsche Welle Web Analytics](http://wiss.iuk.hdm-stuttgart.de/projects/dwwa/) project.
