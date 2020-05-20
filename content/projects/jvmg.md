@@ -11,9 +11,15 @@ partners:
   url: "http://www.ub.uni-leipzig.de"
 - name: "Leipzig University, Department of Japan Studies"
   url: "http://japanologie.gko.uni-leipzig.de/"
-staff:
-- name: "t.b.d."
-  url: "/career"
+  staff: 
+    - name: "Zoltán Kacsuk"
+      url: "/people/zoltan-kacsuk"
+    - name: "Senan Kiryakos"
+      url: "/people/senan-kiryakos"
+    - name: "Luca Paolo Bruno"
+      url: "people/luca-bruno"
+    - name: "Annika Bilger"
+      url: "people/annika-bilger"
 title: "Japanese Visual Media Graph"
 website: "https://jvmg.iuk.hdm-stuttgart.de/"
 ---
