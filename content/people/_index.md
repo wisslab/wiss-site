@@ -31,7 +31,7 @@ description: Direct links to our team.
 {{< person patricia-kaluza >}} | {{< person julika-stangl >}}
 {{< person sara-fischer >}} | {{< person marcel-pleyer >}}
 {{< person max-botta >}} | {{< person tobias-reumann >}}
-{{< person question   "/career/" >}}
+{{< person annika-bilger >}} | {{< person question   "/career/" >}}
 
 ## Alumni
 

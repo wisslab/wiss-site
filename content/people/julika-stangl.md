@@ -23,4 +23,5 @@ function: Student Research Assistant
 
 *Student Research Assistant*
 
-Julika Stangl is a student at the Stuttgart Media University where she studies Information Sciences (Bachelor). She works as an assistant student for the JudaicaLink project. Her primary task is the development and maintenance of the design for the three different JudaicaLink sites (web, labs, data) and helping out in other programming jobs.
+Julika Stangl is studying for her bachelor's degree in information science at Stuttgart Media University. She works as an assistand student for the JudaicaLink project. So far she has been working on the redesign of the project's website and is mainly programming with Python and working with the web framework Django.
+
