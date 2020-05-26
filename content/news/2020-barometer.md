@@ -11,10 +11,10 @@ Our third semester information science students develped a barometer app within 
 
 <!--more-->
 
-The barometer app aims to help professors to recognize early on when the mood of the students is changing, be it because of their own lecture, due to the general work load of all lectures or due to personal problems of the students working from home.
+The barometer app aims to help professors to recognise early on when the mood of the students is changing, be it because of their own lecture, due to the general work load of all lectures or due to personal problems of the students working from home.
 
-Originally, Prof. Mildenberger, dean of our faculty, asked us if we could create such an app quickly for him within the Web Programming course. The students quickly decided that this should be an app that is open for everyone... and that it would be needed very soon and not at the end of the semester. Within two weeks, they devloped the design and concept together with a first mockup to be approved by the "client".
+Originally, Prof. Mildenberger, dean of our faculty, asked us if we could create such an app for him within the Web Programming course. The students decided that this should be an app that is open for everyone - and that it would be needed very soon and not at the end of the semester. Within one week, they devloped the design and concept together with a first mockup to be approved by the "client".
 
-The app then was implemented using the Python Django framework. The barometer visualisation is realized with a dynamic SVG graphic. Cookies are used to "prevent" users from voting more than once a day. The design uses Bootstrap and is responsive. These features plus the additional experience of deploying a "real" application gave our students a head start in this virtual semester, there is not much left to be covered during the remaining time.
+The app then was implemented using the Python Django framework. The barometer visualisation is realised with a dynamic SVG graphic. Cookies are used to "prevent" users from voting more than once a day. The design uses Bootstrap and is responsive. These features plus the additional experience of deploying a "real" application gave our students a head start in this virtual semester, there is not much left to be covered during the remaining time.
 
 The app is available online: http://barometer.wisslab.org/
