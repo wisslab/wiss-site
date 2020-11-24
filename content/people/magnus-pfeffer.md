@@ -44,6 +44,8 @@ title: Prof. Magnus Pfeffer
 {{< publication year="2016" >}}
 ### 2015
 {{< publication year="2015" >}}
+### 2014
+{{< publication year="2014" >}}
 ### 2013
 {{< publication year="2013" >}}
 ### 2012
@@ -58,6 +60,11 @@ title: Prof. Magnus Pfeffer
 {{< publication year="2008" >}}
 ### 2007
 {{< publication year="2007" >}}
+### 2005
+{{< publication year="2005" >}}
+### 2004
+{{< publication year="2004" >}}
+
 
 
 
