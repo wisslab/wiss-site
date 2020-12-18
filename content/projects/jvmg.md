@@ -17,9 +17,9 @@ staff:
 - name: "Senan Kiryakos"
   url: "/people/senan-kiryakos"
 - name: "Luca Paolo Bruno"
-  url: "people/luca-bruno"
+  url: "/people/luca-bruno"
 - name: "Annika Bilger"
-  url: "people/annika-bilger"
+  url: "/people/annika-bilger"
 title: "Japanese Visual Media Graph"
 website: "https://jvmg.iuk.hdm-stuttgart.de/"
 ---
