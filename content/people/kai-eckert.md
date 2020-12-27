@@ -56,6 +56,8 @@ PGP Public Key (0xC7555A67): http://www.kaiec.org/2012/pgp/pubkey.asc
 Fingerprint: A987 3760 12A6 35A4 E6D2 577E 513A 6B84 C755 5A67
 
 ## Publications
+### 2020
+{{< publication year="2020" >}}
 ### 2018
 {{< publication year="2018" >}}
 ### 2017
