@@ -1,8 +1,8 @@
 ---
-author: kai-eckert
+author: magnus-pfeffer
 category: general
 date: 2020-12-24
-featured: "true"
+featured: "false"
 big: "true"
 picture: "/2020/caius.jpeg"
 title: "Consequences of Artificial Intelligence for Urban Societies"
