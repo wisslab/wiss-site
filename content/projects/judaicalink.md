@@ -6,10 +6,6 @@ date: 2013-02-24T10:07:10+01:00
 duration: "since 2013"
 funding: ""
 logo: "/img/judaicalink-logo5.png"
-partners:
-- name: "European Association
-for Jewish Culture"
-  url: "http://www.jewishcultureineurope.org/index1.htm"
 title: JudaicaLink
 website: "http://www.judaicalink.org"
 ---
