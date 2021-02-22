@@ -3,7 +3,7 @@ abstract: "Goal of the project is the creation of a consolidated graph-based dat
 budget_overall: "865,000 Euro"
 budget_own: "650,000 Euro"
 date: 2018-01-08T13:55:14+01:00
-duration: "2019 - 2021"
+duration: "2019 - 2022"
 funding: "Deutsche Forschungsgemeinschaft (DFG)"
 logo: ""
 partners:
