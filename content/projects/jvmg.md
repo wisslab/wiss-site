@@ -1,7 +1,7 @@
 ---
 abstract: "Goal of the project is the creation of a consolidated graph-based database on all types of Japanese visual media, specifically manga, anime and chracter-driven computer games like visual novels. Data models and retrieval functions will be modelled to conform to the requirements of researchers from the fields of Japan studies or media science"
 budget_overall: "865,000 Euro"
-budget_own: "650.000 Euro"
+budget_own: "650,000 Euro"
 date: 2018-01-08T13:55:14+01:00
 duration: "2019 - 2021"
 funding: "Deutsche Forschungsgemeinschaft (DFG)"
