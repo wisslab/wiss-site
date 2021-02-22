@@ -1,6 +1,6 @@
 ---
   name: "InFoLiS II - Integration of research data and literature in the Social Sciences"
-  abstract: "The InFoLiS follow-up project [focuses](focuses) on the identification of references to research data in publications in different languages and domains. To generate and provide the references, a sustainable LOD-infrastructure will be built."
+  abstract: "The InFoLiS follow-up project focuses on the identification of references to research data in publications in different languages and domains. To generate and provide the references, a sustainable LOD-infrastructure will be built."
   duration: "2015 - 2017"
   funding: "Deutsche Forschungsgemeinschaft (DFG)"
   logo: "/img/infolis-logo-circle.png"
