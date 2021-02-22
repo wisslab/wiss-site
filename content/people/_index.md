@@ -16,7 +16,7 @@ description: Direct links to our team.
 {{< person "maral-dadvar">}} | {{< person "marco-rovera">}}
 {{< person "zoltan-kacsuk">}} | {{< person "senan-kiryakos">}} 
  
-## Doctoral Students
+## Researchers
 
    |   
 ---|---
