@@ -1,6 +1,6 @@
 ---
 abstract: "Within this project, we develop concepts for fair artificial intelligence in smart city contexts. Funded with a grant of the Volkswagen Stiftung, we aim to establish CAIUS as a long-term research cooperation between Stuttgart Media University and the University of Mannheim."
-budget_overall: "1.650,000 Euro"
+budget_overall: "1,650,000 Euro"
 budget_own: "550,000 Euro"
 date: 2019-05-23T13:55:14+01:00
 duration: "2019 - 2025"
