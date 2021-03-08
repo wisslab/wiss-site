@@ -22,7 +22,8 @@ title: "Dr. Senan Kiryakos"
 
 
 ## Publications
-
+### 2021
+{{< publication year="2021" >}}
 ### 2018
 {{< publication year="2018" >}}
 ### 2017
