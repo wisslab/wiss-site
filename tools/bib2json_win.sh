@@ -1,4 +1,5 @@
 #!/bin/bash
+# run this file if you are working with windows. This will succeed using git bash. Make sure you have node and pandoc installed.
 for i in *.bib
 	do
 		echo "Converting $i"
