@@ -21,7 +21,8 @@ description: Direct links to our team.
    |   
 ---|---
 {{< person anne-lauscher >}}  | {{< person luca-bruno >}}
-{{< person benjamin-schnabel >}}  | {{< person question  "/career/get-a-doctorate" >}}
+{{< person benjamin-schnabel >}}  | {{< person florian-rupp >}}
+{{< person question  "/career/get-a-doctorate" >}}
 
 
 ## Student Research Assistants, Interns
