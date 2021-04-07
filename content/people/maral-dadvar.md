@@ -24,11 +24,11 @@ Dr. Dadvar is an expert in natural language processing with a PhD in computer sc
 Students interested in writing a Bachelor or Master thesis in this field are very welcome to get in touch.
 
 ## Publications
-###2021
+### 2021
 {{< publication year="2021" >}}
-###2020
+### 2020
 {{< publication year="2020" >}}
-###2019
+### 2019
 {{< publication year="2019" >}}
 ### 2018
 {{< publication year="2018" >}}
