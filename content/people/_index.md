@@ -32,7 +32,7 @@ description: Direct links to our team.
 {{< person patricia-kaluza >}} | {{< person julika-stangl >}}
 {{< person sara-fischer >}} | {{< person marcel-pleyer >}}
 {{< person max-botta >}} | {{< person tobias-reumann >}}
-{{< person annika-bilger >}} | {{< person question   "/career/" >}}
+{{< person nina-bednar >}} | {{< person question   "/career/" >}}
 
 ## Alumni
 
@@ -40,5 +40,5 @@ description: Direct links to our team.
 ---|---
 {{< person thomas-hartmann >}}  | {{< person dominique-ritze >}}
 {{< person "benjamin-zapilko">}} | {{< person mari-itoh >}}
-{{< person jens-steilen >}}  | {{< person anh-duc-nguyen >}}
-{{< person joshua-hill >}}
+{{< person annika-bilger >}} | {{< person jens-steilen >}}
+{{< person anh-duc-nguyen >}} | {{< person joshua-hill >}}
