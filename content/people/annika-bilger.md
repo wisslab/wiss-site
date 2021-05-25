@@ -16,7 +16,7 @@ publications: ""
 research: ""
 title: Annika Bilger
 website: ""
-function: Student Research Assistant
+function: Student Research Assistant (2019-2020)
 ---
 
 # Annika Bilger
