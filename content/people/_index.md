@@ -25,7 +25,7 @@ description: Direct links to our team.
 {{< person question  "/career/get-a-doctorate" >}}
 
 
-## Student Research Assistants, Interns
+## Student Assistants, Interns
 
    |   
 ---|---
