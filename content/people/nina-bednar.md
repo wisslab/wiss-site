@@ -8,7 +8,7 @@ emaildomain: "hdm-stuttgart.de"
 group: "hiwi"
 id: "nina-bednar"
 name: "Nina Bednar"
-photo: /img/bedanr.jpg
+photo: /img/bednar.jpg
 projects: ""
 publications: ""
 research: ""
