@@ -28,7 +28,7 @@ description: Direct links to our team.
 
    |   
 ---|---
-{{< hiwi name="Sara Fischer" projects="JudaicaLink" date="since 2020" >}} | {{< hiwi name="Nina Bednar" projects="WISS" span="since 2020" >}} 
+{{< hiwi name="Sara Fischer" projects="JudaicaLink" date="since 2020" >}} | {{< hiwi name="Nina Bednar" projects="WISS" date="since 2020" >}} 
 {{< hiwi name="Max Botta" projects="Deutsche Welle" date="since 2016" >}} | {{< hiwi name="Angelika Packevic" projects="Deutsche Welle" date="since 2021" >}} 
 {{< hiwi name="Aaron-David Ramspott" projects="Deutsche Welle" date="since 2021" >}} |
 
@@ -47,8 +47,8 @@ Do you want to join our team? [Get in touch!](/career/)
 
    |   
 ---|---
-{{< hiwi name="Anh Duc Nguyen" date="(2016-2017)" >}} | {{< hiwi name="Fabian Wenzel" date="(2016)" projects="Deutsche Welle" >}}
-{{< hiwi name="Jushua Hill" date="(2016-2017)" projects="WISS" >}} | {{< hiwi name="Jens Steilen" date="(2016)" projects="" >}}
+{{< hiwi name="Anh Duc Nguyen" date="(2016-2017)" projects="IBM">}} | {{< hiwi name="Fabian Wenzel" date="(2016)" projects="Deutsche Welle" >}}
+{{< hiwi name="Jushua Hill" date="(2016-2017)" projects="Deutsche Welle" >}} | {{< hiwi name="Jens Steilen" date="(2016)" projects="WISS" >}}
 {{< hiwi name="Tobias Reumann" date="(2018-2021)" projects="Deutsche Welle" >}} | {{< hiwi name="Marcel Pleyer" date="(2018-2021)" projects="Deutsche Welle" >}}
 {{< hiwi name="Annika Bilger" date="(2019-2020)" projects="WISS" >}} | {{< hiwi name="Patricia Kaluza" date="(2020-2021)" projects="JudaicaLink" >}}
 {{< hiwi name="Julika Stangl" date="(2020-2021)" projects="JudaicaLink" >}}
