@@ -28,9 +28,9 @@ description: Direct links to our team.
 
    |   
 ---|---
-{{< hiwi name="Sara Fischer" projects="JudaicaLink" span="since 2020" >}} | {{< hiwi name="Nina Bednar" projects="WISS" span="since 2020" >}} 
-{{< hiwi name="Max Botta" projects="Deutsche Welle" span="since 2016" >}} | {{< hiwi name="Angelika Packevic" projects="Deutsche Welle" span="since 2021" >}} 
-{{< hiwi name="Aaron-David Ramspott" projects="Deutsche Welle" span="since 2021" >}} |
+{{< hiwi name="Sara Fischer" projects="JudaicaLink" date="since 2020" >}} | {{< hiwi name="Nina Bednar" projects="WISS" span="since 2020" >}} 
+{{< hiwi name="Max Botta" projects="Deutsche Welle" date="since 2016" >}} | {{< hiwi name="Angelika Packevic" projects="Deutsche Welle" date="since 2021" >}} 
+{{< hiwi name="Aaron-David Ramspott" projects="Deutsche Welle" date="since 2021" >}} |
 
 Do you want to join our team? [Get in touch!](/career/)
 
