@@ -147,9 +147,11 @@ div.pageData {
     box-shadow: 1px 1px 2px 1px rgba(143,143,143,1);
 }
 
+.smallData {
+  display: flex;
+}
 
 .smallData table.datatable {
-    float:right;
     width:300px;
     margin-top:10px;
 }
@@ -169,6 +171,11 @@ table.datatable th {
 }
 .smallData table.datatable th {
     width: 20%;
+    padding-right:20px;
+}
+
+.smallData img {
+  margin-right: 20px;
 }
 
 ul {

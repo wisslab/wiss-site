@@ -13,26 +13,26 @@ description: Direct links to our team.
 ## Postdoctoral Researchers
    |   
 ---|---
-{{< person "maral-dadvar">}} | {{< person "marco-rovera">}}
 {{< person "zoltan-kacsuk">}} | {{< person "senan-kiryakos">}} 
  
 ## Researchers
 
    |   
 ---|---
-{{< person anne-lauscher >}}  | {{< person luca-bruno >}}
 {{< person benjamin-schnabel >}}  | {{< person florian-rupp >}}
-{{< person question  "/career/get-a-doctorate" >}}
+{{< person sotaro-takeshita >}}  | {{< person luca-bruno >}}
+{{< person question  "/career/get-a-doctorate" >}} |
 
 
 ## Student Assistants, Interns
 
    |   
 ---|---
-{{< person patricia-kaluza >}} | {{< person julika-stangl >}}
-{{< person sara-fischer >}} | {{< person marcel-pleyer >}}
-{{< person max-botta >}} | {{< person tobias-reumann >}}
-{{< person nina-bednar >}} | {{< person question   "/career/" >}}
+{{< hiwi name="Sara Fischer" projects="JudaicaLink" span="since 2020" >}} | {{< hiwi name="Nina Bednar" projects="WISS" span="since 2020" >}} 
+{{< hiwi name="Max Botta" projects="Deutsche Welle" span="since 2016" >}} | {{< hiwi name="Angelika Packevic" projects="Deutsche Welle" span="since 2021" >}} 
+{{< hiwi name="Aaron-David Ramspott" projects="Deutsche Welle" span="since 2021" >}} |
+
+Do you want to join our team? [Get in touch!](/career/)
 
 ## Alumni
 
@@ -40,5 +40,15 @@ description: Direct links to our team.
 ---|---
 {{< person thomas-hartmann >}}  | {{< person dominique-ritze >}}
 {{< person "benjamin-zapilko">}} | {{< person mari-itoh >}}
-{{< person annika-bilger >}} | {{< person jens-steilen >}}
-{{< person anh-duc-nguyen >}} | {{< person joshua-hill >}}
+{{< person "maral-dadvar">}} | {{< person "marco-rovera">}}
+{{< person anne-lauscher >}} | 
+
+## Alumni Student Assistants and Interns
+
+   |   
+---|---
+{{< hiwi name="Anh Duc Nguyen" date="(2016-2017)" >}} | {{< hiwi name="Fabian Wenzel" date="(2016)" projects="Deutsche Welle" >}}
+{{< hiwi name="Jushua Hill" date="(2016-2017)" projects="WISS" >}} | {{< hiwi name="Jens Steilen" date="(2016)" projects="" >}}
+{{< hiwi name="Tobias Reumann" date="(2018-2021)" projects="Deutsche Welle" >}} | {{< hiwi name="Marcel Pleyer" date="(2018-2021)" projects="Deutsche Welle" >}}
+{{< hiwi name="Annika Bilger" date="(2019-2020)" projects="WISS" >}} | {{< hiwi name="Patricia Kaluza" date="(2020-2021)" projects="JudaicaLink" >}}
+{{< hiwi name="Julika Stangl" date="(2020-2021)" projects="JudaicaLink" >}}

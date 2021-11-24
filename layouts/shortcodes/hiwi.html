@@ -1,0 +1,20 @@
+{{if eq (.Get "name") "question" }}
+<div class="smallData">
+<table class="datatable">
+<tr><th>Name: </th><td>
+{{with (.Get 1)}}<a href="{{ . }}">{{end}}
+You?
+{{with (.Get 1)}}<a href="{{ . }}">{{end}}
+</td></tr>
+<tr><th></th><td><i>Join us!</i></td></tr>
+</table>
+</div>
+{{else}}
+<div class="smallData">
+<table class="datatable">
+<tr><th>Name: </th><td>{{ .Get "name" }}</td></tr>
+<tr><th>Projects:</th><td>{{ .Get "projects"}}</td></tr>
+<tr><th>Dates: </th><td>{{ .Get "date" }}</td></tr>
+</table>
+</div>
+{{end}}

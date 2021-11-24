@@ -13,6 +13,7 @@ projects:
 publications: "dadvar"
 research: "Natural Language Processing, Identity Resolution, Semantic Web"
 title: Dr. Maral Dadvar
+function: FID Jewish Studies (2017-2019)
 ---
 
 # Dr. Maral Dadvar

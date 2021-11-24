@@ -16,7 +16,8 @@ supervisor:
 - affiliation: "University of Mannheim"
   name: "Prof. Dr. Simone Ponzetto"
   url: "http://dws.informatik.uni-mannheim.de/en/people/professors/profdrsimonepaoloponzetto/"
-title: Anne Lauscher, M.Sc.
+title: Dr. Anne Lauscher
+function: Defended in 2021
 ---
 
 # Anne Lauscher

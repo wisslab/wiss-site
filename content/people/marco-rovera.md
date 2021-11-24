@@ -10,7 +10,8 @@ photo: "/img/rovera.jpg"
 projects:
 publications: "rovera"
 research: "Natural Language Processing"
-title: Marco Rovera
+title: Dr. Marco Rovera
+function: FID Jewish Studies (2019-2021)
 ---
 
 # Marco Rovera
