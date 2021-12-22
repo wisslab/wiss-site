@@ -22,6 +22,8 @@ title: "Dr. Zoltán Kacsuk"
 
 
 ## Publications
+### 2021
+{{< publication year="2021" >}}
 ### 2020
 {{< publication year="2020" >}}
 ### 2018
