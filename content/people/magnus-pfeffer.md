@@ -34,6 +34,8 @@ title: Prof. Magnus Pfeffer
 
 
 ## Publications
+### 2022
+{{< publication year="2022" >}}
 ### 2021
 {{< publication year="2021" >}}
 ### 2020
