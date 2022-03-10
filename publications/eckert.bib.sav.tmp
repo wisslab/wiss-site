@@ -998,31 +998,4 @@
   address   = {Cham},
   editor    = {Song, Min and Song, Il-Yeol and Kotsis, Gabriele and Tjoa, A. Min and Khalil, Ismail},
   pages     = {245--255},
-  publisher = {Springer International Publishing},
-  abstract  = {Cyberbullying is a disturbing online misbehaviour with troubling consequences. It appears in different forms, and in most of the social networks, it is in textual format. Automatic detection of such incidents requires intelligent systems. Most of the existing studies have approached this problem with conventional machine learning models and the majority of the developed models in these studies are adaptable to a single social network at a time. Recently deep learning based models have been used for similar objectives, claiming that they can overcome the limitations of the conventional models, and improve the detection performance. In this paper, we investigated the findings of a recent literature in this regard and validated their findings using the same datasets as they did. We further expanded the work by applying the developed methods on a new dataset. We aimed to further investigate the performance of the models in new social media platforms. Our findings show that the deep learning based models outperform the machine learning models previously applied to the same dataset. We believe that the deep learning based models can also benefit from integrating other sources of information and looking into the impact of profile information of the users in social networks.},
-  isbn      = {978-3-030-59065-9},
-}
-
-@Article{Franken2022,
-  author  = {Julian Franken and Aliakdandr Birukou and Kai Eckert and Wolfgang Fahl and Christian Hauschke and Christoph Lange},
-  journal = {Data Science Journal},
-  title   = {Persistent Identification of Conferences},
-  year    = {2022 (to be published)},
-}
-
-@Comment{jabref-meta: databaseType:bibtex;}
-
-@Comment{jabref-meta: fileDirectory-kai:../files;}
-
-@Comment{jabref-meta: grouping:
-0 AllEntriesGroup:;
-1 StaticGroup:KCAP 2007\;0\;1\;\;\;\;;
-1 StaticGroup:DC\;0\;1\;\;\;\;;
-1 StaticGroup:Report Diana\;0\;1\;\;\;\;;
-1 StaticGroup:Library Catalogs\;0\;1\;\;\;\;;
-1 StaticGroup:Peer Programming\;0\;1\;\;\;\;;
-1 StaticGroup:Thesaurus Generation\;0\;1\;\;\;\;;
-1 StaticGroup:crosswalks\;0\;1\;\;\;\;;
-1 StaticGroup:Crowdsourcing\;0\;1\;\;\;\;;
-1 StaticGroup:KOS History\;0\;1\;\;\;\;;
-}
+  publisher = {
