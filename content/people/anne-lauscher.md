@@ -1,8 +1,8 @@
 ---
 id: anne-lauscher
 date: 2016-10-29T14:10:40+01:00
-emailuser: "lauscher"
-emaildomain: "hdm-stuttgart.de"
+emailuser: 
+emaildomain: 
 phone:
 group: "phd"
 name: "Anne Lauscher"
