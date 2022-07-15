@@ -13,14 +13,14 @@ description: Direct links to our team.
 ## Postdoctoral Researchers
    |   
 ---|---
-{{< person "zoltan-kacsuk">}} | {{< person "senan-kiryakos">}} 
+{{< person "zoltan-kacsuk">}} 
  
 ## Researchers
 
    |   
 ---|---
 {{< person benjamin-schnabel >}}  | {{< person florian-rupp >}}
-{{< person sotaro-takeshita >}}  | {{< person luca-bruno >}}
+{{< person sotaro-takeshita >}}  
 {{< person question  "/career/get-a-doctorate" >}} |
 
 
@@ -38,6 +38,7 @@ Do you want to join our team? [Get in touch!](/career/)
 
    |   
 ---|---
+{{< person "senan-kiryakos">}} | {{< person luca-bruno >}}
 {{< person thomas-hartmann >}}  | {{< person dominique-ritze >}}
 {{< person "benjamin-zapilko">}} | {{< person mari-itoh >}}
 {{< person "maral-dadvar">}} | {{< person "marco-rovera">}}
