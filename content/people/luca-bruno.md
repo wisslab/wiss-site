@@ -1,8 +1,8 @@
 ---
 id: luca-bruno
 date: 2016-06-03T14:10:40+01:00
-emailuser: "bruno"
-emaildomain: "hdm-stuttgart.de"
+emailuser: 
+emaildomain: 
 phone: 
 group: "phd"
 name: "Luca Paolo Bruno"
@@ -13,6 +13,7 @@ projects:
 publications: "bruno"
 research: "Japanese Visual Media, Game Studies, Japanese Studies"
 title: "Luca Paolo Bruno"
+function: Japanese Visual Media Graph (2019-2022)
 ---
 
 # Luca Paolo Bruno
