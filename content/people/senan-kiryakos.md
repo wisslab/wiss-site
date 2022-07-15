@@ -1,8 +1,8 @@
 ---
 id: senan-kiryakos
 date: 2016-06-03T14:10:40+01:00
-emailuser: "kiryakos"
-emaildomain: "hdm-stuttgart.de"
+emailuser: 
+emaildomain: 
 phone: 
 group: "postdoc"
 name: "Senan Kiryakos"
@@ -13,6 +13,7 @@ projects:
 publications: "kiryakos"
 research: "Bibliographic Data Modelling, Metadata, Multimedia Franchises"
 title: "Dr. Senan Kiryakos"
+function: Japanese Visual Media Graph (2019-2022)
 ---
 
 # Dr. Senan Kiryakos
