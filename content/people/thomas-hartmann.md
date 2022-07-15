@@ -4,8 +4,8 @@ affiliation:
 - name: "GESIS Leibniz Institute for Social Sciences"
   url: "http://www.gesis.org"
 date: 2016-02-17T14:10:47+01:00
-emailuser: "mail"
-emaildomain: "dr-thomashartmann.de"
+emailuser: 
+emaildomain: 
 group: "alumni"
 identifiers:
 - id: "1-5324-4306"
