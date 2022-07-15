@@ -13,7 +13,7 @@ description: Direct links to our team.
 ## Postdoctoral Researchers
    |   
 ---|---
-{{< person "zoltan-kacsuk">}} 
+{{< person "zoltan-kacsuk">}} |
  
 ## Researchers
 
