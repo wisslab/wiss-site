@@ -1,8 +1,6 @@
 ---
 id: dominique-ritze
 date: 2016-02-17T14:10:40+01:00
-emailuser: "dominique"
-emaildomain: "informatik.uni-mannheim.de"
 affiliation:
 - name: "Research Group Data and Web Science"
   url: "http://dws.informatik.uni-mannheim.de"

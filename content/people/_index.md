@@ -20,8 +20,7 @@ description: Direct links to our team.
    |   
 ---|---
 {{< person benjamin-schnabel >}}  | {{< person florian-rupp >}}
-{{< person sotaro-takeshita >}}  
-{{< person question  "/career/get-a-doctorate" >}} |
+{{< person sotaro-takeshita >}} | {{< person question  "/career/get-a-doctorate" >}}
 
 
 ## Student Assistants, Interns
