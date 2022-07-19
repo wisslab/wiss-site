@@ -26,11 +26,12 @@ title: Prof. Magnus Pfeffer
 
 
 ## Research
-- Semantic Web in Libraries
-- information retrieval in heterogenous bibliographic data 
-- metadata management software
-- automatic and semiautomatic indexing of bibliographic resources
-- open source library software
+- Semantic Web 
+- Knowledge Organization
+- Information retrieval in heterogenous metadata
+- Metadata management 
+- Automatic and semiautomatic indexing of bibliographic resources
+
 
 
 ## Publications
