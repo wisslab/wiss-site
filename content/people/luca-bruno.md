@@ -10,7 +10,7 @@ projects:
 publications: "bruno"
 research: "Japanese Visual Media, Game Studies, Japanese Studies"
 title: "Luca Paolo Bruno"
-function: Japanese Visual Media Graph (2019-2022)
+function: "Japanese Visual Media Graph (2019-2022)"
 ---
 
 # Luca Paolo Bruno
