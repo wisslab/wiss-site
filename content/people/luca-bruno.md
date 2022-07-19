@@ -1,9 +1,6 @@
 ---
 id: luca-bruno
 date: 2016-06-03T14:10:40+01:00
-emailuser: 
-emaildomain: 
-phone: 
 group: "phd"
 name: "Luca Paolo Bruno"
 photo: "/img/bruno.png"
