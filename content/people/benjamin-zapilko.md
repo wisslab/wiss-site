@@ -1,9 +1,6 @@
 ---
 id: "benjamin-zapilko"
 date: 2016-09-01T01:10:27+01:00
-emailuser: "Benjamin.Zapilko"
-emaildomain: "gesis.org"
-phone: "49 (0) 221 / 47694 - 515"
 group: "alumni"
 name: "Benjamin Zapilko"
 photo: "/img/zapilko.jpg"
