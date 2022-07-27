@@ -1,8 +1,6 @@
 ---
 id: "mari-itoh"
 date: 2016-09-01T01:10:27+01:00
-emailuser: "itoh"
-emaildomain: "hdm-stuttgart.de"
 phone:
 group: "visitors"
 name: "Mari Itoh"
