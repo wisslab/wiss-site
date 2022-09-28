@@ -7,7 +7,8 @@ picture: ""
 title: "Paper accepted for KGSWC 2022"
 ---
 Our paper "Easy and complex: new perspectives for metadata modeling using RDF-star and Named Graphs" just got accepted for
-the [Knowledge Graph and Semantic Web Conference](http://kgswc.org/).
+the [Knowledge Graph and Semantic Web Conference](http://kgswc.org/). The research emerged collaboratively from the
+[CAIUS](http://wiss.iuk.hdm-stuttgart.de/projects/caius/) and the [Judaicalink](http://wiss.iuk.hdm-stuttgart.de/projects/judaicalink/) project.
 <!--more-->
 
 The paper presents three patterns for meta-layer modeling using RDF-star and Named Graphs.
