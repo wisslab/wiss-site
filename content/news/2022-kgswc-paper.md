@@ -1,16 +1,35 @@
 ---
-author: kai-eckert
+author: florian-rupp
 category: general
-date: 2022-03-15
+date: 2022-09-28
 featured: "false"
 picture: ""
-title: "Paper accepted for JCDL 2022"
+title: "Paper accepted for KGSWC 2022"
 ---
-Our paper "X-SCITLDR: Cross-Lingual Extreme Summarization of Scholarly Documents" just got accepted for the [ACM/IEEE Joint Conference on Digital Libraries](https://2022.jcdl.org/).
+Our paper "Easy and complex: new perspectives for metadata modeling using RDF-star and Named Graphs" just got accepted for
+the [Knowledge Graph and Semantic Web Conference](http://kgswc.org/).
 <!--more-->
 
-The paper presents first results from our research in the context of the [VADIS project](/projects/vadis).
+The paper presents three patterns for meta-layer modeling using RDF-star and Named Graphs.
 
 Here is the full abstract:
 
-> The number of scientific publications nowadays is rapidly increasing, causing information overload for researchers and making it hard for scholars to keep up to date with current trends and lines of work. Consequently, recent work on applying text mining technologies for scholarly publications has investigated the application of automatic text summarization technologies, including extreme summarization, for this domain. However, previous work has concentrated only on monolingual settings, primarily in English. In this paper, we fill this research gap and present an abstractive cross-lingual summarization dataset for four different languages in the scholarly domain which enables us to train and evaluate models which process English papers and generate summaries in German, Italian, Chinese and Japanese. We present our new X-SCITLDR dataset for multilingual summarization and thoroughly benchmark different models based on a state-of-the-art multilingual pre-trained model, including a two-stage `summarize and translate' approach and a direct cross-lingual model. We additionally explore the benefits of intermediate-stage training using English monolingual summarization and machine translation as intermediate tasks and analyze performance in zero- and few-shot scenarios.
+> The Resource Description Framework is well-established as
+a lingua franca for data modeling and is designed to integrate heterogeneous
+data at instance and schema level using statements. While RDF is
+conceptually simple, data models nevertheless get complex, when complex
+data needs to be represented. Additional levels of indirection with
+intermediate resources instead of simple properties lead to higher barriers
+for prospective users of the data. Based on three patterns, we argue
+that shifting information to a meta-level can not only be used to
+(1) provide provenance information, but can also help to (2) maintain
+backwards compatibility for existing models, and to (3) reduce the complexity
+of a data model. There are, however, multiple ways in RDF to
+use a meta-level, i.e., to provide additional statements about statements.
+With Named Graphs, there exists a well-established mechanism to describe
+groups of statements. Since its inception, however, it has been
+hard to make statements about single statements. With the introduction
+of RDF-star, a new way to provide data about single statements is
+now available. We show that the combination of RDF-star and Named
+Graphs is a viable solution to express data on a meta-level and propose
+that this meta-level should be used as first class citizen in data modeling.
