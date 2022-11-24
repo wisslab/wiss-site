@@ -10,12 +10,22 @@ photo: /img/rupp.jpeg
 projects:
 - name: "CAIUS"
   url: "/projects/caius/"
-publications: ""
+publications: "rupp"
 research: ""
 title: "Florian Rupp"
+identifiers:
+- id: "0000-0001-5250-8613"
+  title: "ORCID"
+  url: "https://orcid.org/0000-0001-5250-8613"
 ---
 
 # Florian Rupp
 
-*Research Fellow, Data Scientist*
+*Research Fellow, Lecturer, Data Scientist*
 
+## Contact
+**Office:** Nobelstr. 10, Room 143
+
+## Publications
+### 2022
+{{< publication year="2022" >}}

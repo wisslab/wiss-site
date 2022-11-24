@@ -10,7 +10,7 @@ photo: /img/schnabel.jpg
 projects:
 - name: "CAIUS"
   url: "/projects/caius/"
-publications: ""
+publications: "schnabel"
 research: "Digital Humanities, Jewish Studies"
 title: "Benjamin Schnabel"
 ---
@@ -19,5 +19,8 @@ title: "Benjamin Schnabel"
 
 *Research Fellow*
 
+## Publications
+### 2022
+{{< publication year="2022" >}}
 
 
