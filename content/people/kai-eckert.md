@@ -1,9 +1,9 @@
 ---
 id: "kai-eckert"
 date: 2016-02-14T01:10:27+01:00
-emailuser: "eckert"
-emaildomain: "hdm-stuttgart.de"
-phone: "49 (0) 711 8923-3164"
+emailuser: "k.eckert"
+emaildomain: "hs-mannheim.de"
+phone: "49 (0) 621 292 6225"
 group: "prof"
 name: "Kai Eckert"
 photo: "/img/kai.jpg"
@@ -20,17 +20,20 @@ identifiers:
   title: "VIAF"
   url: "http://viaf.org/viaf/262260288"
 title: "Prof. Dr. Kai Eckert"
-description: "Official webpage of Prof. Dr. Kai Eckert, Web-based Information Systems and Services, Stuttgart Media University."
-function: "Head of Group"
+description: "Prof. Dr. Kai Eckert was former head of the group. He is now professor for artificial intelligence at Mannheim University of Applied Sciences."
+function: "Professor at Mannheim University of Applied Sciences"
 ---
 
 # Prof. Dr. Kai Eckert
 
-*Head of Group*
+*Professor for Artificial Intelligence, Mannheim University of Applied Sciences*
+
+## Change of affiliation
+
+**Since March 1st, 2023, I am Professor for Artificial Intelligence at the [Department of Computer Science](https://www.cs.hs-mannheim.de) at Mannheim University of Applied Sciences.** 
 
 ## Contact
-- **Office:** Nobelstr. 8, Room i201  
-  *Meetings are usually in meeting room i206 or i207. Use the phone at the door to call me, if I am not already in one of the meeting rooms.*
+- **Office:** Paul-Wittsack-Str. 10, 68163 Mannheim, Building A, Room 113c.
 - **Office hours (for students):** Upon request
   *If no suitable slots are available or outside lecture time, please write an email.*
 
@@ -44,6 +47,8 @@ Like many, I unfortunately face an increasing amount of incoming email. The foll
 
 
 ## Research
+- Artificial Intelligence
+- Natural Language Processing
 - Linked Data, Data Integration, Data Enrichment
 - Knowledge Organization
 - Provenance and Workflows
