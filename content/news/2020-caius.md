@@ -3,7 +3,7 @@ author: magnus-pfeffer
 category: general
 date: 2020-12-24
 featured: "false"
-big: "true"
+big: "false"
 picture: "/2020/caius.jpg"
 title: "Consequences of Artificial Intelligence for Urban Societies"
 ---
